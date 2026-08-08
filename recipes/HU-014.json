@@ -1,0 +1,30 @@
+{
+  "id": "HU-014",
+  "title": "Túrós tészta cannelloniból szalonnával",
+  "cuisine": "magyar",
+  "tags": ["tészta", "túró", "cannelloni", "szalonna", "gyors", "egy tál", "tejföl"],
+  "prep_minutes": 25,
+  "cook_minutes": 35,
+  "difficulty": "könnyű",
+  "kid_friendly": true,
+  "servings": 2,
+  "main_protein": "túró",
+  "source": "https://streetkitchen.hu/receptek/turos-teszta-cannellonibol",
+  "ingredients": [
+    {"name": "tehéntúró", "quantity": 250, "unit": "g"},
+    {"name": "tejföl", "quantity": 100, "unit": "g"},
+    {"name": "tojás", "quantity": 1, "unit": "db"},
+    {"name": "só, bors", "quantity": null, "unit": null},
+    {"name": "cannelloni tészta", "quantity": 8, "unit": "db"},
+    {"name": "tejszín", "quantity": 200, "unit": "ml"},
+    {"name": "kolozsvári szalonna", "quantity": 150, "unit": "g", "note": "tálaláshoz"},
+    {"name": "tejföl", "quantity": 100, "unit": "g", "note": "tálaláshoz"},
+    {"name": "petrezselyem", "quantity": 0.5, "unit": "csokor", "note": "tálaláshoz"}
+  ],
+  "steps": [
+    "1. Egy keverőtálba helyezzük a túrót, a tejfölt és a tojást, sózzuk, borsozzuk, és alaposan elkeverjük. A tölteléket habzsákba töltjük és a csőformás tésztákba nyomjuk. Nem kell előre kifőzni a tésztát – a mártásban fog megfőni, hasonlóan a lasagnelapokhoz.",
+    "2. A betöltött tésztákat egy olyan nagy tepsibe helyezzük, hogy szorosan egymást érjenek a hengerek. Felöntjük a tejszínnel, alufóliával lefedjük, és 160 °C-ra előmelegített sütőben 30 perc alatt készre sütjük. Ha sütött felszínt is kívánunk, levesszük a fóliát a tepsiról, és még 5 percet ízlés szerint sütjük a tésztát.",
+    "3. A kolozsvári szalonnát 0,5 cm-es lapokra vágjuk és közepes hőmérsékleten serpenyőben megsütjük. Tálaláskor a tésztacsöveket egy tányérra tesszük, a sült szalonnával díszítjük, a tetejére kanálazunk egy adag tejfölt és meghintjük apróra vágott petrezselyemmel."
+  ],
+  "notes": "A recept az eredeti túrós tésztát cannelloni tésztával készíti el – ez egy olasz-magyar fúzió. A tészta nem kell előre kifőni, a tejszínben megfő a sütés alatt. Gyors, egytálos étel, gyerekeknek is tetszik. A szalonna opcionális, maradéktalan vegetáriánus verzióhoz hagyd ki."
+}

@@ -1,0 +1,40 @@
+{
+  "id": "AS-004",
+  "title": "Miso leves (japán)",
+  "cuisine": "ázsiai",
+  "tags": ["leves", "japán", "tofu", "gyors", "comfort"],
+  "prep_minutes": 10,
+  "cook_minutes": 15,
+  "difficulty": "könnyű",
+  "kid_friendly": true,
+  "servings": 5,
+  "main_protein": "tofu",
+  "source": "https://streetkitchen.hu/receptek/miso-leves-recept",
+  "ingredients": [
+    {"name": "szárított alga (wakame)", "quantity": 31, "unit": "g"},
+    {"name": "víz", "quantity": 2.0, "unit": "l"},
+    {"name": "olaj", "quantity": 50, "unit": "ml"},
+    {"name": "tofu (natúr, kemény)", "quantity": 375, "unit": "g"},
+    {"name": "újhagyma", "quantity": 1, "unit": "csokor"},
+    {"name": "shiitake gomba", "quantity": 150, "unit": "g"},
+    {"name": "friss gyömbér", "quantity": 2.5, "unit": "cm"},
+    {"name": "miso paszta (fehér vagy vörös)", "quantity": 2.5, "unit": "ek"},
+    {"name": "szezámolaj", "quantity": 38, "unit": "ml"},
+    {"name": "szezámmag", "quantity": 1, "unit": "ek"},
+    {"name": "rizstészta", "quantity": 250, "unit": "g"},
+    {"name": "mungóbabcsíra", "quantity": 63, "unit": "g"},
+    {"name": "só", "quantity": null, "unit": null}
+  ],
+  "steps": [
+    "1. Algát egy tálba tenni, leforrázni kb. 375 ml forró vízzel (8-10 perc ázni hagyjuk).",
+    "2. Olaj felét (25 ml) serpenyőben felmelegíteni, erős lángon megpirítani a kis kockákra vágott tofut (5-6 perc, amíg kívül ropogós). Kivenni, félretenni.",
+    "3. Lábasban az olaj másik felét (25 ml) felmelegíteni, közepes lángon 1-2 percig pirítani a karikára vágott újhagymát, a szeletelt shiitake-t és a reszelt gyömbért.",
+    "4. Felönteni az alga forrázó vizével + kb. 1.6 l vízzel. Amikor forr, hozzáadni a miso pasztát, és elkeverni, amíg felolvad.",
+    "5. Enyhén sózni — VIGYÁZAT, a miso paszta nagyon sós! Kóstolás után dönteni.",
+    "6. Hozzáadni a szezámolaj felét (19 ml), egyet forralni, és lekapcsolni a tűzhelyet (a miso-t nem szabad forralni, mert elveszíti az aromáját).",
+    "7. Az algát vékony csíkokra vágni, összekeverni a száraz serpenyőben 2-3 perc alatt aranybarnára pirított szezámmaggal, meglocsolni a maradék szezámolajjal.",
+    "8. Rizstésztát a csomagolás szerint megfőzni (általában 3-4 perc forró vízben).",
+    "9. Tálalás: tálba tésztát, rá a levest, a tofu kockákat, az alga-szezámmag salátát, és megszórni mungóbabcsírával."
+  ],
+  "notes": "Ha nincs wakame alga, elhagyható — a leves akkor is finom. A miso pasztát érdemes bioboltban vagy ázsiai boltban keresni (fehér = enyhébb, vörös = intenzívebb íz). A tofu kockákat panírozhatod kukoricakeményítővel, hogy ropogósabb legyen. Gyerekeknek a tofu kockákat külön is ki lehet tálalni, mert a levesben könnyen szétesnek."
+}

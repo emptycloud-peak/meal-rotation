@@ -1,0 +1,30 @@
+{
+  "id": "ME-001",
+  "title": "Görög csirke citrommal, sült burgonyával",
+  "cuisine": "mediterrán",
+  "tags": ["sütő", "csirke", "citrom", "görög"],
+  "prep_minutes": 15,
+  "cook_minutes": 60,
+  "difficulty": "közepes",
+  "kid_friendly": true,
+  "servings": 5,
+  "main_protein": "csirke",
+  "ingredients": [
+    {"name": "csirkecomb (egész, bőrös)", "quantity": 1.2, "unit": "kg"},
+    {"name": "burgonya", "quantity": 1.0, "unit": "kg"},
+    {"name": "citrom", "quantity": 2, "unit": "db"},
+    {"name": "olívaolaj", "quantity": 4, "unit": "ek"},
+    {"name": "fokhagyma", "quantity": 4, "unit": "gerezd"},
+    {"name": "oregánó (szárított)", "quantity": 2, "unit": "tk"},
+    {"name": "só, bors", "quantity": null, "unit": null}
+  ],
+  "steps": [
+    "1. Sütőt 200°C-ra előmelegíteni.",
+    "2. Csirkecombokat megsózni, borsozni, oregánóval bedörzsölni.",
+    "3. Tepsibe tenni, citromot 4-be vágni, közé dobni, fokhagymát szétszórni.",
+    "4. Burgonyát kockázni (3 cm), olívaolajjal + sóval összekeverni, a tepsibe szórni a csirke köré.",
+    "5. 50-60 percig sütni, amíg a csirke aranybarna és a burgonya puha.",
+    "6. Citrommal tálalni."
+  ],
+  "notes": "A bőrös comb a kulcs — a bőre ropogósra sül, a húsa szaftos marad."
+}

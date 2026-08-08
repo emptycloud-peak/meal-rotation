@@ -1,0 +1,31 @@
+{
+  "id": "HU-001",
+  "title": "Csirkepaprikás nokedlivel",
+  "cuisine": "magyar",
+  "tags": ["comfort", "hús", "tejtermék", "klasszikus"],
+  "prep_minutes": 20,
+  "cook_minutes": 40,
+  "difficulty": "közepes",
+  "kid_friendly": true,
+  "servings": 5,
+  "main_protein": "csirke",
+  "ingredients": [
+    {"name": "csirkecomb filé", "quantity": 1.0, "unit": "kg"},
+    {"name": "vöröshagyma", "quantity": 2, "unit": "db"},
+    {"name": "tejföl", "quantity": 400, "unit": "g"},
+    {"name": "édes paprika (őrölt)", "quantity": 2, "unit": "tk"},
+    {"name": "liszt", "quantity": 300, "unit": "g"},
+    {"name": "tojás", "quantity": 2, "unit": "db"},
+    {"name": "só", "quantity": null, "unit": null},
+    {"name": "olaj", "quantity": 2, "unit": "ek"}
+  ],
+  "steps": [
+    "1. Hagymát apróra vágni, csirkét kockázni (3 cm).",
+    "2. Olajon üvegesre pirítani a hagymát, hozzáadni a csirkét, fehéredésig pirítani.",
+    "3. Hozzáadni a pirospaprikát, felönteni 3 dl vízzel, sózni, fedő alatt 25 percig főzni.",
+    "4. Közben nokedli: lisztet, tojást, pici sót, 1 dl vizet összegyúrni, szaggatni forró vízbe, 3 percig főzni, szűrni.",
+    "5. A tejfölt egy merőkanálnyi meleg szósszal kikeverni, a pörkölthez adni, ne forralni.",
+    "6. Tálalni a nokedlivel."
+  ],
+  "notes": "A paprikát a tűzről levéve add a pörkölthöz — a forró olajban megkeseredik."
+}

@@ -1,0 +1,38 @@
+{
+  "id": "HU-009",
+  "title": "Krumplileves kolbásszal és csipetkével",
+  "cuisine": "magyar",
+  "tags": ["leves", "krumpli", "kolbász", "csipetke", "egy tál"],
+  "prep_minutes": 15,
+  "cook_minutes": 35,
+  "difficulty": "könnyű",
+  "kid_friendly": true,
+  "servings": 5,
+  "main_protein": "kolbász",
+  "source": "streetkitchen.hu alapú saját recept",
+  "ingredients": [
+    {"name": "vöröshagyma", "quantity": 1, "unit": "fej"},
+    {"name": "olaj", "quantity": 2, "unit": "ek"},
+    {"name": "kolbász (füstölt)", "quantity": 200, "unit": "g"},
+    {"name": "krumpli", "quantity": 800, "unit": "g"},
+    {"name": "sárgarépa", "quantity": 1, "unit": "db"},
+    {"name": "zeller", "quantity": 0.5, "unit": "db"},
+    {"name": "pirospaprika", "quantity": 1, "unit": "ek"},
+    {"name": "víz", "quantity": 2.5, "unit": "l"},
+    {"name": "babérlevél", "quantity": 2, "unit": "db"},
+    {"name": "só, bors", "quantity": null, "unit": null},
+    {"name": "majoranna", "quantity": 1, "unit": "tk"},
+    {"name": "tojás", "quantity": 1, "unit": "db", "note": "csipetkéhez"},
+    {"name": "liszt", "quantity": 150, "unit": "g", "note": "csipetkéhez"},
+    {"name": "só", "quantity": null, "unit": null, "note": "csipetkéhez"},
+    {"name": "petrezselyem", "quantity": 1, "unit": "csokor"}
+  ],
+  "steps": [
+    "1. Hagymát apróra vágjuk, az olajon átpirítjuk. Hozzáadjuk a gyufára vágott kolbászt, 2-3 percig pirítjuk.",
+    "2. Hozzáadjuk a kockára vágott krumplit, répát, zellert. Rászórjuk a pirospaprikát, azonnal felöntjük a vízzel.",
+    "3. Hozzáadjuk a babérlevelt, sózzuk, borsozzuk, fűszerezzük majorannával. 15-20 percig főzzük, amíg a krumpli meg nem puhul.",
+    "4. Közben a tojást, lisztet, sóval összekeverjük, szivelyes tésztát készítünk. Kecses vértekkel vagy kesztyűvel nagyvacakká vágjuk a levesbe.",
+    "5. 3-4 percig főzzük a csipetkét, petrezselyemmel tálaljuk."
+  ],
+  "notes": "A csipetke tésztát ne hagyd túl sűrűnek, főzés közben dagad. Ha nincs kolbász, szalonna vagy khuszt is jó."
+}

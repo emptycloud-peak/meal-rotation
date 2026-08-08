@@ -1,0 +1,38 @@
+{
+  "id": "HU-008",
+  "title": "Lencseleves kolbásszal",
+  "cuisine": "magyar",
+  "tags": ["leves", "lencse", "kolbász", "húsos", "klasszikus"],
+  "prep_minutes": 15,
+  "cook_minutes": 45,
+  "difficulty": "könnyű",
+  "kid_friendly": true,
+  "servings": 5,
+  "main_protein": "kolbász",
+  "source": "https://streetkitchen.hu/receptek/lencseleves",
+  "ingredients": [
+    {"name": "vöröshagyma", "quantity": 1, "unit": "fej"},
+    {"name": "olaj", "quantity": 2, "unit": "ek"},
+    {"name": "sárgarépa", "quantity": 1, "unit": "db"},
+    {"name": "fehérrépa", "quantity": 1, "unit": "db"},
+    {"name": "zeller", "quantity": 0.5, "unit": "db"},
+    {"name": "kolbász (füstölt)", "quantity": 200, "unit": "g"},
+    {"name": "lencse (barna/vörös)", "quantity": 300, "unit": "g"},
+    {"name": "paradicsom", "quantity": 1, "unit": "db"},
+    {"name": "tv-paprika", "quantity": 1, "unit": "db"},
+    {"name": "pirospaprika", "quantity": 1, "unit": "ek"},
+    {"name": "babérlevél", "quantity": 2, "unit": "db"},
+    {"name": "víz/leves", "quantity": 2.5, "unit": "l"},
+    {"name": "só, bors, majoranna", "quantity": null, "unit": null},
+    {"name": "tejföl", "quantity": 200, "unit": "ml", "note": "tálaláshoz"},
+    {"name": "friss petrezselyem", "quantity": 1, "unit": "csokor", "note": "tálaláshoz"}
+  ],
+  "steps": [
+    "1. A hagymát apróra vágjuk, az olajon átpirítjuk, hozzáadjuk a kockára vágott zöldségeket (répa, fehérrépa, zeller) és a gyufára vágott kolbászt. Néhány percig együtt pirítjuk.",
+    "2. Beleteszzük a paradicsomot és paprikát, megpirítjuk, majd beleteszzük a pirospaprikát, és azonnal felöntjük a vízzel/levesszel, hogy ne égye meg.",
+    "3. Hozzádjuk a megmosott lencsét, a babérlevelt, és 30-35 percig főzzük, amíg a lencse meg nem puhul.",
+    "4. Sózzuk, borsozzuk, fűszerezzük majorannával.",
+    "5. Tejföllel és petrezselyemmel tálaljuk."
+  ],
+  "notes": "A lencsét nem kell előző este beáztatni, de ha megteszed, gyorsabban fő. A kolbász helyett használhatsz szalonnát vagy khust is."
+}

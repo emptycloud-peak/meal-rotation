@@ -1,0 +1,42 @@
+{
+  "id": "HU-005",
+  "title": "Klasszikus gulyásleves marhahúsból",
+  "cuisine": "magyar",
+  "tags": ["leves", "marha", "gulyás", "klasszikus", "pörköltpaprika"],
+  "prep_minutes": 30,
+  "cook_minutes": 180,
+  "difficulty": "közepes",
+  "kid_friendly": true,
+  "servings": 5,
+  "main_protein": "marha",
+  "source": "https://streetkitchen.hu/receptek/klasszikus-gulyasleves",
+  "ingredients": [
+    {"name": "vöröshagyma", "quantity": 200, "unit": "g"},
+    {"name": "zsír", "quantity": 60, "unit": "g"},
+    {"name": "fokhagyma", "quantity": 2, "unit": "gerezd"},
+    {"name": "paradicsom", "quantity": 1, "unit": "db"},
+    {"name": "tv-paprika", "quantity": 1, "unit": "db"},
+    {"name": "marhahús szár", "quantity": 600, "unit": "g"},
+    {"name": "csípős daráltpaprika-krém", "quantity": 1, "unit": "ek"},
+    {"name": "pritaminpaprika-krém", "quantity": 1, "unit": "ek"},
+    {"name": "fűszerpaprika", "quantity": 1, "unit": "ek"},
+    {"name": "zellerzöld", "quantity": 1, "unit": "csokor"},
+    {"name": "só, bors", "quantity": null, "unit": null},
+    {"name": "őrölt kömény", "quantity": 1, "unit": "csipet"},
+    {"name": "sárgarépa", "quantity": 1, "unit": "szál"},
+    {"name": "zellergömö", "quantity": 0.25, "unit": "db"},
+    {"name": "krumpli", "quantity": 500, "unit": "g"},
+    {"name": "mustár", "quantity": 1, "unit": "tk", "note": "1-2 tk"},
+    {"name": "petrezselyem", "quantity": 1, "unit": "csokor", "note": "tálaláshoz"},
+    {"name": "friss kenyér", "quantity": null, "unit": null, "note": "tálaláshoz"}
+  ],
+  "steps": [
+    "1. A klasszikus gulyásleves recept első lépéseként a finomra vágott hagymát a zsíron 2-3 perc alatt megdinszteljük, majd hozzádjuk a zúzolt fokhagymát.",
+    "2. További 1-2 perc pirítás után mehet bele a kis kockákra vágott paradicsom és paprika. Kicsit lepirítjuk, majd beletesszük a kb. 2 x 2 cm-es kockákra vágott húst.",
+    "3. 2-3 perc pirítás után hozzádjuk a kétféle paprikakrémet és a pirospaprikát, közben kevergetjük, nehogy megégjen a paprika.",
+    "4. Felöntjük annyi vízzel, ami ellepi a húst. Ha felforrt, hozzádjuk a zellerzöldet, sózzuk, borsozzuk, ízesítjük köménnyel és addig főzzük, amíg a hús szinte teljesen meg nem puhul. A főzés során pótoljuk a vizet.",
+    "5. Eztán hozzádjuk a kis, kb. 1 x 1 cm-es kockákra vágott répát, zellert és krumplit, valamint a mustárt és felöntjük 1,5-2 liter vízzel. Tovább főzzük a levest, míg a zöldségek is megpuhulnak.",
+    "6. Tálaláskor megszórjuk apróra vágott petrezselyemmel és friss kenyérrel kínáljuk a gőzgőlő gulyáslevest."
+  ],
+  "notes": "Friss kenyérrel, csípős paprikával és egy pohár borral tálalva a gulyásnak nincs párja. Ez nemcsak egy leves, hanem egy történet, amit minden magyar szívből mesél tovább."
+}

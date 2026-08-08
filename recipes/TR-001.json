@@ -1,0 +1,35 @@
+{
+  "id": "TR-001",
+  "title": "Török csirkenyárs (Tavuk Şiş) piláffal",
+  "cuisine": "török",
+  "tags": ["grillezés", "csirke", "könnyű", "nyári"],
+  "prep_minutes": 30,
+  "cook_minutes": 25,
+  "difficulty": "közepes",
+  "kid_friendly": true,
+  "servings": 5,
+  "main_protein": "csirke",
+  "ingredients": [
+    {"name": "csirkemell filé", "quantity": 800, "unit": "g"},
+    {"name": "joghurt (natúr)", "quantity": 300, "unit": "g"},
+    {"name": "citrom", "quantity": 1, "unit": "db"},
+    {"name": "fokhagyma", "quantity": 4, "unit": "gerezd"},
+    {"name": "paprika (őrölt)", "quantity": 1, "unit": "tk"},
+    {"name": "kömény (őrölt)", "quantity": 1, "unit": "tk"},
+    {"name": "kurkuma", "quantity": 0.5, "unit": "tk"},
+    {"name": "olívaolaj", "quantity": 3, "unit": "ek"},
+    {"name": "basmati rizs", "quantity": 400, "unit": "g"},
+    {"name": "vöröshagyma", "quantity": 1, "unit": "db"},
+    {"name": "só, bors", "quantity": null, "unit": null},
+    {"name": "fa nyársak (vagy fém)", "quantity": 8, "unit": "db"}
+  ],
+  "steps": [
+    "1. Csirkét 2 cm-es kockákra vágni.",
+    "2. Pác: joghurt + citromlé + reszelt fokhagyma + fűszerek + 2 ek olívaolaj + só, bors. Bele a csirkét, legalább 30 percig pihenni (akár 2 óra).",
+    "3. Közben piláf: hagymát apróra vágni, kevés olajon üvegesre pirítani, rizst hozzáadni, 1 percig kevergetni.",
+    "4. Felönteni 800 ml forró vízzel + só, 15 percig fedő alatt főzni, pihenni 5 percig.",
+    "5. Nyársakra húzni a csirkét, serpenyőben vagy grillen 8-10 percig sütni, forgatva.",
+    "6. Piláffal tálalni, joghurttal a tálban."
+  ],
+  "notes": "A pácot előző este is elkészítheted — minél tovább pácolódik, annál ízletesebb."
+}

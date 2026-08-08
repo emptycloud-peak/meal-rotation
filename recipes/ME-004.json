@@ -1,0 +1,40 @@
+{
+  "id": "ME-004",
+  "title": "Sült paradicsomleves kovászos ciabatta szendővel",
+  "cuisine": "mediterrán",
+  "tags": ["leves", "paradicsom", "mediterrán", "nyári", "szendő"],
+  "prep_minutes": 20,
+  "cook_minutes": 40,
+  "difficulty": "könnyű",
+  "kid_friendly": true,
+  "servings": 2,
+  "main_protein": "none",
+  "source": "https://streetkitchen.hu/receptek/sultparadicsom-leves-kovaszos-ciabatta-szendoval",
+  "ingredients": [
+    {"name": "paradicsom", "quantity": 1, "unit": "kg"},
+    {"name": "fokhagyma", "quantity": 2, "unit": "gerezd"},
+    {"name": "bazsalikom", "quantity": 1, "unit": "marék"},
+    {"name": "friss rozmaring", "quantity": 2, "unit": "ág"},
+    {"name": "olívaolaj", "quantity": 4, "unit": "ek"},
+    {"name": "só, bors", "quantity": null, "unit": null},
+    {"name": "morzsolt oregánó", "quantity": 1, "unit": "nagy csipet"},
+    {"name": "főzőtejföl", "quantity": 250, "unit": "ml"},
+    {"name": "ciabatta", "quantity": 2, "unit": "db", "note": "vagy kisebb bagett"},
+    {"name": "zöld pesto", "quantity": 4, "unit": "ek"},
+    {"name": "mozzarella", "quantity": 1, "unit": "db"},
+    {"name": "prosciutto", "quantity": 100, "unit": "g"},
+    {"name": "rukkola", "quantity": 1, "unit": "marék"},
+    {"name": "feta sajt", "quantity": 100, "unit": "g"},
+    {"name": "tejföl", "quantity": 2, "unit": "ek", "note": "tálaláshoz"},
+    {"name": "olívaolaj", "quantity": 1, "unit": "ek", "note": "tálaláshoz"},
+    {"name": "friss rozmaring", "quantity": 1, "unit": "ág", "note": "tálaláshoz"}
+  ],
+  "steps": [
+    "1. A paradicsomokat megmossuk, felnegyedeljük, sütőpapíros tepsire dobáljuk, majd melléjük szórjuk a fokhagymát, a bazsalikomot és a rozmaringot.",
+    "2. Meglocsoljuk olívaolajjal, sózzuk, borsozzuk, megszórjuk oregánóval, aztán 200 fokra előmelegített sütőben 35-40 percig sütjük, amíg szépén megpirulnak.",
+    "3. Az egészet a kisült saftjával együtt turmixgépbe tesszük, hozzádöntjük a tejfölt, és selymesre turmixoljuk.",
+    "4. Ha inkább egy gazpachóra emlékeztető, frissítő verzióra vágyunk, hagyjuk egy éjszakát a hűtőben, és másnap jéghidegen tálaljuk – a sült paradicsom ízei addigra még jobban összéérnek.",
+    "5. A ciabattát megkenjük pestóval, rádobjuk a mozzarellát, a prosciuttót, a rukkolát és a fetát. Tálaláskor jöhet egy kis tejföl, pár csepp olívaolaj, a ciabatta pedig mehet egyenesen a levésbe."
+  ],
+  "notes": "A hagyományos paradicsomleves egy sokkal gazdagabb, mélyebb ízvilágú változata, mivel a sütőben sült zöldségek természeti cukortartalma karamellizálódik és kellemesen füstös aromát kapnak. A hozzá kínált fullos szendő teszi fel az i-re a pontot."
+}

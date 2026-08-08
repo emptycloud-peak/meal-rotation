@@ -1,0 +1,35 @@
+{
+  "id": "TR-002",
+  "title": "Török lencseleves (Mercimek Çorbası)",
+  "cuisine": "török",
+  "tags": ["leves", "lencse", "vegetáriánus", "comfort"],
+  "prep_minutes": 10,
+  "cook_minutes": 35,
+  "difficulty": "könnyű",
+  "kid_friendly": true,
+  "servings": 5,
+  "main_protein": "lencse",
+  "ingredients": [
+    {"name": "vörös lencse", "quantity": 400, "unit": "g"},
+    {"name": "vöröshagyma", "quantity": 1, "unit": "db"},
+    {"name": "sárgarépa", "quantity": 1, "unit": "db"},
+    {"name": "burgonya", "quantity": 1, "unit": "db"},
+    {"name": "paradicsom (sűrített)", "quantity": 2, "unit": "ek"},
+    {"name": "csirke alaplé (vagy zöldség)", "quantity": 1.5, "unit": "l"},
+    {"name": "kömény (őrölt)", "quantity": 1, "unit": "tk"},
+    {"name": "paprika (piros, őrölt)", "quantity": 1, "unit": "tk"},
+    {"name": "menta (szárított)", "quantity": 1, "unit": "tk"},
+    {"name": "citrom", "quantity": 1, "unit": "db"},
+    {"name": "olívaolaj, só, bors", "quantity": null, "unit": null}
+  ],
+  "steps": [
+    "1. Lencsét átmosni, átválogatni.",
+    "2. Hagymát, répát, burgonyát kockázni.",
+    "3. Fazékban olívaolajon a hagymát üvegesre pirítani, répát és burgonyát hozzáadni, 3 percig pirítani.",
+    "4. Hozzáadni a lencsét, a sűrített paradicsomot, a fűszereket, felönteni az alaplével.",
+    "5. 30 percig főzni, amíg a lencse szétfő.",
+    "6. Botmixerrel krémesre pürésíteni.",
+    "7. Citromlével, sóval, borssal ízesíteni. Pirított kenyérkockával és mentával tálalni."
+  ],
+  "notes": "A pürésítést a gyerekek imádják — krémes, és nem látják a zöldségeket."
+}

@@ -1,0 +1,32 @@
+{
+  "id": "HU-003",
+  "title": "Zöldbabfőzelék fasírttal",
+  "cuisine": "magyar",
+  "tags": ["comfort", "hús", "tejtermék", "gyors"],
+  "prep_minutes": 15,
+  "cook_minutes": 30,
+  "difficulty": "könnyű",
+  "kid_friendly": true,
+  "servings": 5,
+  "main_protein": "sertés",
+  "ingredients": [
+    {"name": "zöldbab (fagyasztott)", "quantity": 800, "unit": "g"},
+    {"name": "darált sertéshús", "quantity": 500, "unit": "g"},
+    {"name": "tejföl", "quantity": 250, "unit": "g"},
+    {"name": "liszt", "quantity": 2, "unit": "ek"},
+    {"name": "vöröshagyma", "quantity": 1, "unit": "db"},
+    {"name": "fokhagyma", "quantity": 2, "unit": "gerezd"},
+    {"name": "zsemlemorzsa", "quantity": 3, "unit": "ek"},
+    {"name": "tojás", "quantity": 1, "unit": "db"},
+    {"name": "só, bors, pirospaprika", "quantity": null, "unit": null}
+  ],
+  "steps": [
+    "1. Fasírt: darált húst összekeverni a tojással, zsemlemorzsával, sóval, borssal, aprított fokhagymával. Kis golyók formázni, olajon kisütni.",
+    "2. A zöldbabot sós vízben puhára főzni (15 perc).",
+    "3. Hagymát apróra vágni, kevés olajon üvegesre pirítani.",
+    "4. Hozzáadni a lisztet, elkeverni, felönteni a zöldbab levével.",
+    "5. Beletenni a zöldbabot, 5 percig forralni.",
+    "6. Tejföllel sűríteni, sóval, borssal, pirospaprikával ízesíteni."
+  ],
+  "notes": "A tejfölt a tűzről levéve keverd bele, hogy ne csomósodjon."
+}

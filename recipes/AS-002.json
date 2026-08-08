@@ -1,0 +1,36 @@
+{
+  "id": "AS-002",
+  "title": "Csirke stir-fry édes-savanyú szósszal",
+  "cuisine": "ázsiai",
+  "tags": ["gyors", "csirke", "zöldség", "kínai"],
+  "prep_minutes": 20,
+  "cook_minutes": 15,
+  "difficulty": "közepes",
+  "kid_friendly": true,
+  "servings": 5,
+  "main_protein": "csirke",
+  "ingredients": [
+    {"name": "csirkemell filé", "quantity": 800, "unit": "g"},
+    {"name": "rizs (jázmin vagy basmati)", "quantity": 500, "unit": "g"},
+    {"name": "kaliforniai paprika (piros, sárga)", "quantity": 2, "unit": "db"},
+    {"name": "brokkoli", "quantity": 1, "unit": "fej"},
+    {"name": "sárgarépa", "quantity": 2, "unit": "db"},
+    {"name": "ananász (konzerv, kockázva)", "quantity": 400, "unit": "g"},
+    {"name": "ketchup", "quantity": 4, "unit": "ek"},
+    {"name": "ecet (fehérborecet)", "quantity": 2, "unit": "ek"},
+    {"name": "cukor", "quantity": 2, "unit": "ek"},
+    {"name": "szójaszósz", "quantity": 3, "unit": "ek"},
+    {"name": "só, bors, olaj, kukoricakeményítő", "quantity": null, "unit": "null"}
+  ],
+  "steps": [
+    "1. Rizst főni.",
+    "2. Csirkét kockázni (2 cm), kukoricakeményítővel, sóval, borssal beforgatni.",
+    "3. Zöldségeket csíkokra/kockára vágni.",
+    "4. Szósz: ketchup + ecet + cukor + szójaszósz + 4 ek ananászlé a konzervből — összekeverni.",
+    "5. Wokban olajon a csirkét pirítani 5 percig, amíg aranybarna. Kivenni.",
+    "6. Ugyanabban a wokban a zöldségeket 4 percig pirítani, amíg ropogós-puha.",
+    "7. Visszatenni a csirkét, hozzáadni az ananászt + a szószt, 1 percig forralni, amíg besűrűsödik.",
+    "8. Rizzsel tálalni."
+  ],
+  "notes": "A gyerekek az ananászt imádják — gyakran ők kanalazzák ki először."
+}

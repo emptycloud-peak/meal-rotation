@@ -1,0 +1,4 @@
+{
+  "log": [],
+  "notes": "Append-only history of picked recipes. Each entry: {date: 'YYYY-MM-DD', recipes: [{recipe_id, title, day_slot}]}. Anti-rotation reads the last 7 days from here."
+}

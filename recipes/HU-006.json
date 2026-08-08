@@ -1,0 +1,35 @@
+{
+  "id": "HU-006",
+  "title": "Zöldségleves tükörtojással",
+  "cuisine": "magyar",
+  "tags": ["leves", "zöldség", "tükörtojás", "könnyű", "gyors"],
+  "prep_minutes": 15,
+  "cook_minutes": 25,
+  "difficulty": "könnyű",
+  "kid_friendly": true,
+  "servings": 5,
+  "main_protein": "tojás",
+  "source": "https://streetkitchen.hu/receptek/zoldseg-leves",
+  "ingredients": [
+    {"name": "olaj", "quantity": 2, "unit": "ek"},
+    {"name": "vöröshagyma", "quantity": 1, "unit": "fej"},
+    {"name": "sárgarépa", "quantity": 2, "unit": "szál"},
+    {"name": "zeller", "quantity": 1, "unit": "db"},
+    {"name": "burgonya", "quantity": 3, "unit": "db"},
+    {"name": "zöldborsó", "quantity": 200, "unit": "g"},
+    {"name": "káposzta", "quantity": 300, "unit": "g"},
+    {"name": "víz", "quantity": 2.5, "unit": "l"},
+    {"name": "babérlevél", "quantity": 2, "unit": "db"},
+    {"name": "só, bors", "quantity": null, "unit": null},
+    {"name": "tojás", "quantity": 4, "unit": "db", "note": "tükörtojáshoz"},
+    {"name": "petrezselyem", "quantity": 1, "unit": "csokor"}
+  ],
+  "steps": [
+    "1. Az olajon megdinszteljük a finomra vágott hagymát. Hozzáadjuk a kockára vágott zöldségeket (sárgarépa, zeller, burgonya), és 3-4 percig pirítjuk.",
+    "2. Felöntjük a vízzel, hozzádjuk a babérlevelt, sózzuk, borsozzuk, és 15 percig főzzük, amíg a zöldségek megpuhulnak.",
+    "3. Hozzádjuk a zöldborsót és a vékonyra vágott káposztát, még 5 percig főzzük.",
+    "4. A levesbeợntjük a tojásokat (tükörtojás formájában), és 2-3 percig főzzük, amíg a tojásfehér meg nem fehéredik.",
+    "5. Az végén hozzádjuk az apróitott petrezselymet. Forróan tálaljuk."
+  ],
+  "notes": "A tükörtojást óvatosan ontjuk a forró levesbe, ne szedjük szét a sárgáját. Ha nem szeretitek a friss petrezselymet, hagyni is lehet."
+}

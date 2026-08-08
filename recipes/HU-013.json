@@ -1,0 +1,36 @@
+{
+  "id": "HU-013",
+  "title": "Klasszikus rakott krumpli kolbásszal és baconnel",
+  "cuisine": "magyar",
+  "tags": ["főétel", "rakott", "krumpli", "kolbász", "bacon", "tejföl", "sajt", "egy tál", "családi"],
+  "prep_minutes": 40,
+  "cook_minutes": 70,
+  "difficulty": "közepes",
+  "kid_friendly": true,
+  "servings": 5,
+  "main_protein": "kolbász",
+  "source": "https://streetkitchen.hu/receptek/klasszikus-rakott-krumpli",
+  "ingredients": [
+    {"name": "krumpli", "quantity": 1.5, "unit": "kg"},
+    {"name": "tojás", "quantity": 10, "unit": "db"},
+    {"name": "vöröshagyma", "quantity": 200, "unit": "g"},
+    {"name": "kolbász", "quantity": 200, "unit": "g"},
+    {"name": "olaj", "quantity": 20, "unit": "ml"},
+    {"name": "tejföl", "quantity": 800, "unit": "g"},
+    {"name": "mustár", "quantity": 2, "unit": "ek"},
+    {"name": "fokhagyma", "quantity": 3, "unit": "gerezd"},
+    {"name": "ékes kenyérkeményítő", "quantity": 2, "unit": "tk"},
+    {"name": "só, bors", "quantity": null, "unit": null},
+    {"name": "bacon (szeletelt)", "quantity": 200, "unit": "g"},
+    {"name": "vaj", "quantity": 50, "unit": "g"},
+    {"name": "trappista sajt (reszelt)", "quantity": 250, "unit": "g"}
+  ],
+  "steps": [
+    "1. A burgonyát bővel, enyhén sósvízben majdnem puhára főzzük. A tojásokat is 10 perc alatt keményre főzzük.",
+    "2. A vöröshagymát szeletekre vágjuk, és egy kevés olajon üvegesre pirítjuk. A tejfölben elkeverjük a mustárt, a zúzolt fokhagymát, a keményítőt, és sózzuk, borsozzuk. A bacont ropogósra pirítjuk.",
+    "3. A tepsi alját kikenjük a vajjal, és elkezdjük rétegezni a hozzávalókat. Minden réteget enyhén megsózunk. Először teszünk egy réteget a megfőtt és karikára vágott krumpliból, és az egészet meglocsoljuk egy adag tejföllel.",
+    "4. Jöhet a szintén főtt, karikára vágott tojás, amit megszórunk egy adag pirított hagymával. Teszünk egy réteget a kolbászból és a baconból is, majd ismét jöhet egy réteg tejföl.",
+    "5. Ezt a sort addig ismételjük, amíg el nem fognak az alapanyagok. A végén tejföllel zárjuk a sort, majd az egészet megszórjuk a reszelt sajttal, és 180°C-ra előmelegített sütőben 25-30 perc alatt készre sütjük."
+  ],
+  "notes": "A rakott krumpli akkor lesz a legszebb, ha kerámia vagy öntöttvas tepsiben készíted: jobban tartja a hőt, szépesen pirul a teteje, és a tálalás is mutatósabb. A kolbász helyett szalonna is használható, vagy vegyesen."
+}

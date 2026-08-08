@@ -1,0 +1,35 @@
+{
+  "id": "AS-005",
+  "title": "Thai zöld curry leves csirkével",
+  "cuisine": "ázsiai",
+  "tags": ["leves", "curry", "thai", "csirke", "kókusz"],
+  "prep_minutes": 15,
+  "cook_minutes": 25,
+  "difficulty": "közepes",
+  "kid_friendly": true,
+  "servings": 5,
+  "main_protein": "csirke",
+  "source": "streetkitchen.hu alapú saját recept",
+  "ingredients": [
+    {"name": "csirkemell", "quantity": 500, "unit": "g"},
+    {"name": "kókusztej", "quantity": 400, "unit": "ml"},
+    {"name": "zöld curry pasta", "quantity": 2, "unit": "ek"},
+    {"name": "víz", "quantity": 500, "unit": "ml"},
+    {"name": "cukkinni", "quantity": 1, "unit": "db"},
+    {"name": "paprika", "quantity": 1, "unit": "db"},
+    {"name": "bambuszlobogó", "quantity": 1, "unit": "doboz"},
+    {"name": "szójászósz", "quantity": 2, "unit": "ek"},
+    {"name": "lime", "quantity": 1, "unit": "db"},
+    {"name": "bazsalikom/koriander", "quantity": 1, "unit": "csokor"},
+    {"name": "olaj", "quantity": 1, "unit": "ek"},
+    {"name": "rizs", "quantity": 300, "unit": "g", "note": "kiegészítő"}
+  ],
+  "steps": [
+    "1. Csirkét csíkokra vágjuk, sózzuk, borsozzuk. Az olajon 3-4 percig pirítjuk, kiveszünk.",
+    "2. Ugyanabban a sarténben a curry pastát 30 másodpercig pirítjuk, felöntjük kókusztejjel és vízzel.",
+    "3. Beletesszük a zöldségeket (kockára vágott cukkini, paprika, bambusz), 5-7 percig főzzük.",
+    "4. Visszatesszük a csirkét, hozzádjuk a szójászósz, lime lé, még 5 percig főzzük.",
+    "5. Bazsalikommal/ korianderrel tálaljuk, rizs mellé."
+  ],
+  "notes": "A curry pasta csípősödhet, ha a gyerekeknek készíted, kevesebbet használj. A kókusztej helyett lehet főzőtejet is, de akkor nem lesz olyan krémes."
+}

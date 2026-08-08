@@ -1,0 +1,33 @@
+{
+  "id": "HU-007",
+  "title": "Sütőtök krémleves",
+  "cuisine": "magyar",
+  "tags": ["leves", "sütőtök", "krémleves", "őszi", "tejszín"],
+  "prep_minutes": 15,
+  "cook_minutes": 30,
+  "difficulty": "könnyű",
+  "kid_friendly": true,
+  "servings": 5,
+  "main_protein": "none",
+  "source": "https://streetkitchen.hu/receptek/sutotok-kremleves",
+  "ingredients": [
+    {"name": "sütőtök", "quantity": 1, "unit": "kg", "note": "tisztított súly"},
+    {"name": "vöröshagyma", "quantity": 1, "unit": "fej"},
+    {"name": "fokhagyma", "quantity": 2, "unit": "gerezd"},
+    {"name": "olaj", "quantity": 2, "unit": "ek"},
+    {"name": "zöldségleves / víz", "quantity": 1, "unit": "l"},
+    {"name": "tejszín", "quantity": 200, "unit": "ml"},
+    {"name": "só, bors, pálinkapaprika", "quantity": null, "unit": null},
+    {"name": "friss majoranna", "quantity": 1, "unit": "csokor", "note": "tálaláshoz"},
+    {"name": "rózsibors", "quantity": null, "unit": null, "note": "tálaláshoz"}
+  ],
+  "steps": [
+    "1. A sütőtököt felvesszük, a hagymát apróra vágjuk.",
+    "2. Az olajon megdinszteljük a hagymát, hozzáadjuk a fokhagymát, majd a tököt. 3-4 percig pirítjuk.",
+    "3. Felöntjük a levesvel/vízzel, hozzáadjuk a babérlevelt (ha van), és 20-25 percig főzzük, amíg a tök teljesen meg nem puhul.",
+    "4. A babérlevelt kiveszünk, a levest turmixoljuk selymessé.",
+    "5. Visszaöntjük a fazékba, beledöntjük a tejszínt, sózzuk, borsozzuk, fűszerezzük pálinkapaprikával. Rövid ideig felforraljuk.",
+    "6. Majorannával és rózsiborssal tálaljuk."
+  ],
+  "notes": "A tököt előre sülteni is lehet (200°C-on 25-30 perc), így jobban kijön az íze. A tejszín helyett használhattek tejfölt is, akkor savanyosabb lesz."
+}

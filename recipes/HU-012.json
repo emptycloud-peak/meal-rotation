@@ -1,0 +1,33 @@
+{
+  "id": "HU-012",
+  "title": "Frankfurti leves zöldségekkel",
+  "cuisine": "magyar",
+  "tags": ["leves", "frankfurti", "gyermekbarát", "gyors", "zöldség"],
+  "prep_minutes": 10,
+  "cook_minutes": 20,
+  "difficulty": "könnyű",
+  "kid_friendly": true,
+  "servings": 5,
+  "main_protein": "frankfurti",
+  "source": "streetkitchen.hu alapú saját recept",
+  "ingredients": [
+    {"name": "vöröshagyma", "quantity": 1, "unit": "fej"},
+    {"name": "olaj", "quantity": 1, "unit": "ek"},
+    {"name": "sárgarépa", "quantity": 2, "unit": "db"},
+    {"name": "fehérrépa", "quantity": 1, "unit": "db"},
+    {"name": "zeller", "quantity": 0.5, "unit": "db"},
+    {"name": "krumpli", "quantity": 2, "unit": "db", "note": "kisebb"},
+    {"name": "frankfurti", "quantity": 6, "unit": "db"},
+    {"name": "víz/leves", "quantity": 2, "unit": "l"},
+    {"name": "babérlevél", "quantity": 2, "unit": "db"},
+    {"name": "só, bors", "quantity": null, "unit": null},
+    {"name": "petrezselyem", "quantity": 1, "unit": "csokor", "note": "tálaláshoz"}
+  ],
+  "steps": [
+    "1. Hagymát és a gyökérzöldségeket (répa, zeller) kockára vágjuk. Az olajon átpirítjuk a hagymát, hozzáadjuk a zöldségeket, 3-4 percig pirítjuk.",
+    "2. Felöntjük a vízzel/levessel, hozzádjuk a babérlevelt, 10 percig főzzük, amíg a zöldségek még egy kicsit merevek.",
+    "3. A frankfurtit gyufára vágjuk, beletesszük a levesbe, még 5-7 percig főzzük.",
+    "4. Sózzuk, borsozzuk, petrezselyemmel tálaljuk."
+  ],
+  "notes": "A frankfurtit érdemes a végére tenni, nehogy szétessék. Ha nincsen frankfurti, szalonna vagy kolbász is jó. Gyerekeknek a szalonna nélkül 건강osabb."
+}

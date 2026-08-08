@@ -1,0 +1,29 @@
+{
+  "id": "ME-002",
+  "title": "Olasz tészta carbonara",
+  "cuisine": "mediterrán",
+  "tags": ["tészta", "gyors", "olasz", "comfort"],
+  "prep_minutes": 10,
+  "cook_minutes": 20,
+  "difficulty": "közepes",
+  "kid_friendly": true,
+  "servings": 5,
+  "main_protein": "sertés",
+  "ingredients": [
+    {"name": "spagetti tészta", "quantity": 500, "unit": "g"},
+    {"name": "guanciale (vagy pancetta, bacon)", "quantity": 250, "unit": "g"},
+    {"name": "tojássárgája", "quantity": 4, "unit": "db"},
+    {"name": "tojás (egész)", "quantity": 2, "unit": "db"},
+    {"name": "pecorino romano (vagy parmezán)", "quantity": 100, "unit": "g"},
+    {"name": "só, bors", "quantity": null, "unit": null}
+  ],
+  "steps": [
+    "1. Tésztát forró, sós vízben al dente főzni (8-9 perc).",
+    "2. Közben a szalonnát csíkokra vágni, serpenyőben ropogósra sütni (zsírját kiolvasztva).",
+    "3. Tojássárgájákat + egész tojásokat + reszelt sajtot + borsot egy tálban habverővel elkeverni.",
+    "4. A megfőtt tésztát a szalonnás serpenyőbe önteni (tűzről levéve!), hozzáadni a tojásos keveréket.",
+    "5. Gyorsan elkeverni — a tészta hőjénél a tojás krémes szósszá alakul, de nem rántotta. Ha kell, egy merőkanálnyi tésztavízzel hígítani.",
+    "6. Azonnal tálalni, extra sajttal és borssal."
+  ],
+  "notes": "Soha ne öntsd a tojásos keveréket a tűzön lévő serpenyőbe — rántotta lesz. A tészta hője elég."
+}

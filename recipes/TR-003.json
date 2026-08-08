@@ -1,0 +1,34 @@
+{
+  "id": "TR-003",
+  "title": "Török pizza (Lahmacun)",
+  "cuisine": "török",
+  "tags": ["sütő", "darált hús", "szombati"],
+  "prep_minutes": 30,
+  "cook_minutes": 15,
+  "difficulty": "közepes",
+  "kid_friendly": true,
+  "servings": 5,
+  "main_protein": "marha",
+  "ingredients": [
+    {"name": "liszt", "quantity": 500, "unit": "g"},
+    {"name": "víz (langyos)", "quantity": 280, "unit": "ml"},
+    {"name": "élesztő (száraz)", "quantity": 7, "unit": "g"},
+    {"name": "darált marhahús", "quantity": 400, "unit": "g"},
+    {"name": "vöröshagyma", "quantity": 1, "unit": "db"},
+    {"name": "paradicsom", "quantity": 2, "unit": "db"},
+    {"name": "kaliforniai paprika", "quantity": 1, "unit": "db"},
+    {"name": "petrezselyem (friss)", "quantity": 1, "unit": "csokor"},
+    {"name": "paprika (őrölt, csípős is)", "quantity": 2, "unit": "tk"},
+    {"name": "kömény", "quantity": 1, "unit": "tk"},
+    {"name": "só, olívaolaj", "quantity": null, "unit": null}
+  ],
+  "steps": [
+    "1. Tészta: liszt + élesztő + só + víz — összegyúrni, 30 percig keleszteni.",
+    "2. Töltelék: darált húst, aprított hagymát, reszelt paradicsomot, aprított paprikát, petrezselymet és fűszereket összekeverni.",
+    "3. Tésztát 4 vékony lappá nyújtani.",
+    "4. Tölteléket vékonyan elosztani a tésztákon (3-4 mm vastagon).",
+    "5. 220°C-os sütőben 10-12 percig sütni, amíg a széle aranybarna.",
+    "6. Friss zöldséggel, citrommal tálalni — a gyerekek tekerhetik fel."
+  ],
+  "notes": "A gyerekek imádják, mert feltekerhetik és kézzel ehetik. A tészta vékonyra nyújtva a kulcs — különben tésztaízű lesz."
+}

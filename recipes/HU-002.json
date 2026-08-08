@@ -1,0 +1,32 @@
+{
+  "id": "HU-002",
+  "title": "Bográcsgulyás (konyhai verzió)",
+  "cuisine": "magyar",
+  "tags": ["comfort", "marha", "klasszikus", "vasárnapi"],
+  "prep_minutes": 25,
+  "cook_minutes": 90,
+  "difficulty": "közepes",
+  "kid_friendly": true,
+  "servings": 5,
+  "main_protein": "marha",
+  "ingredients": [
+    {"name": "marhalábszár kockázva", "quantity": 1.0, "unit": "kg"},
+    {"name": "burgonya", "quantity": 1.0, "unit": "kg"},
+    {"name": "vöröshagyma", "quantity": 3, "unit": "db"},
+    {"name": "sárgarépa", "quantity": 2, "unit": "db"},
+    {"name": "zeller (gumó)", "quantity": 0.5, "unit": "db"},
+    {"name": "paradicsom (sűrített)", "quantity": 2, "unit": "ek"},
+    {"name": "paprika (őrölt, csípős is)", "quantity": 2, "unit": "tk"},
+    {"name": "babérlevél", "quantity": 2, "unit": "db"},
+    {"name": "só, bors", "quantity": null, "unit": null}
+  ],
+  "steps": [
+    "1. Hagyma felkockázva, olajon barnára pirítva.",
+    "2. Hús hozzáadása, fehéredésig pirítva.",
+    "3. Pirospaprika, paradicsom, babérlevél, felöntve 2 liter vízzel.",
+    "4. 60 percig főzni fedő alatt.",
+    "5. Hozzáadni a kockázott burgonyát, sárgarépát, zellert, kockázott paradicsomot.",
+    "6. Még 30 percig főzni, amíg a burgonya puha. Só, bors a végén."
+  ],
+  "notes": "Ha a gyerekek nem szeretik a csípőset, a pirospaprikát tedd külön tálba, ők maguk szórják bele."
+}

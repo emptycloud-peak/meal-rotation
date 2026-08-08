@@ -1,0 +1,30 @@
+{
+  "household": {
+    "adults": 2,
+    "children": 3,
+    "child_ages_note": "Gyerekbarát szűrés aktív — receptek 'kid_friendly: true' preferálva.",
+    "cooking_skill": "ügyes",
+    "restrictions": []
+  },
+  "rotation": {
+    "days": ["tuesday", "thursday", "saturday"],
+    "default_cuisine_by_day": {
+      "tuesday": "magyar",
+      "thursday": "ázsiai",
+      "saturday": "török"
+    },
+    "anti_repeat_days": 7,
+    "cuisines": ["magyar", "ázsiai", "török", "mediterrán", "vegyes", "egészséges"]
+  },
+  "delivery": {
+    "channel": "telegram",
+    "recipient": "8118210126"
+  },
+  "shopping_list_categories": [
+    "Zöldség/gyümölcs",
+    "Hús/hal",
+    "Tejtermék",
+    "Szárazáru",
+    "Egyéb"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "HU-015",
+  "title": "Klasszikus tőkfőzelék",
+  "cuisine": "magyar",
+  "tags": ["főzelék", "tök", "kapor", "tejföl", "egyszerű", "gyors", "vegetáriánus"],
+  "prep_minutes": 15,
+  "cook_minutes": 20,
+  "difficulty": "könnyű",
+  "kid_friendly": true,
+  "servings": 5,
+  "main_protein": "none",
+  "source": "https://streetkitchen.hu/receptek/klasszikus-tokfozelek",
+  "ingredients": [
+    {"name": "ételolaj", "quantity": 3, "unit": "ek"},
+    {"name": "vöröshagyma", "quantity": 2, "unit": "fej", "note": "260 g"},
+    {"name": "fokhagyma", "quantity": 2, "unit": "gerezd"},
+    {"name": "vajtök", "quantity": 1.5, "unit": "kg"},
+    {"name": "friss kapor", "quantity": 1, "unit": "csokor"},
+    {"name": "só, bors", "quantity": null, "unit": null},
+    {"name": "tej", "quantity": 400, "unit": "ml"},
+    {"name": "tejföl", "quantity": 250, "unit": "g"},
+    {"name": "fűszerpaprika", "quantity": 2, "unit": "tk"},
+    {"name": "finomliszt", "quantity": 3, "unit": "ek"},
+    {"name": "10%-os ecet", "quantity": 2, "unit": "ek"}
+  ],
+  "steps": [
+    "1. Olajat melegítünk egy lában, és az aprólra vágott hagymát belecsorjuk, pár percig pirítjuk, majd mehet bele az apróra vágott fokhagyma is. A tököt meggyógyítjuk, megszabadítjuk a magjától, és lereszeljük. Ez is mehet a lábaiba egy hatalmas csokornyi aprólra vágott friss kapor kíséretében. Ne sajnáljuk, bőven mehet bele! 6 percig pároljuk a tököt fedő alatt.",
+    "2. Sózzuk, borsozzuk, és felöntjük a tejjel, majd további 4 percig forraljuk.",
+    "3. Amikor felforrt, kivesszünk egy merőkanállal a levéből, és kikeverjük a tejföllel, a pirospaprikával és a liszttel, ezután folyamatos kevergetés mellett visszaöntjük a lábaiba. Végül hozzádjuk az ecetet is, felforraljuk a főzeléket, és már tálalhatjuk is a kedvenc fasírttal vagy grillkolbásszal, és persze egy szelet kovászos kenyérrel."
+  ],
+  "notes": "Bár a klasszikus tőkfőzelék is prímá, azért étkezzetek változatosan! A főzelék nagyon sokfélekép variálhatók, akár azzal, hogy milyen sűrítési módot választotok, vagy, hogy miből készítitek! A Street Kitchen kedvenc főzelékei: Sárgaborsófőzelék sült hagymával, Zab liszttel sűrített borsófőzelék, Citromos-mentás nyári babfőzelék."
+}

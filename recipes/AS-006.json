@@ -1,0 +1,33 @@
+{
+  "id": "AS-006",
+  "title": "Spicy tofu miso leves",
+  "cuisine": "ázsiai",
+  "tags": ["leves", "tofu", "miso", "spicy", "japán"],
+  "prep_minutes": 10,
+  "cook_minutes": 15,
+  "difficulty": "könnyű",
+  "kid_friendly": true,
+  "servings": 5,
+  "main_protein": "tofu",
+  "source": "streetkitchen.hu alapú saját recept",
+  "ingredients": [
+    {"name": "kemény tofu", "quantity": 300, "unit": "g"},
+    {"name": "miso paszta (piros)", "quantity": 3, "unit": "ek"},
+    {"name": "víz", "quantity": 1.5, "unit": "l"},
+    {"name": "wakame alga", "quantity": 20, "unit": "g"},
+    {"name": "újhagyma", "quantity": 3, "unit": "db"},
+    {"name": "szezámolaj", "quantity": 1, "unit": "ek"},
+    {"name": "szezámmag", "quantity": 1, "unit": "ek"},
+    {"name": "chili olaj / sriracha", "quantity": 1, "unit": "tk", "note": "opcionális"},
+    {"name": "gomba (shiitake/enoki)", "quantity": 150, "unit": "g", "note": "opcionális"},
+    {"name": "rizstészta", "quantity": 150, "unit": "g", "note": "kiegészítő"}
+  ],
+  "steps": [
+    "1. Tofut kockákra vágjuk. Alga 10 percig beáztatjuk meleg vízból, majd kivesszük, felvágjuk.",
+    "2. Vizet felmelegítünk, miso pasztát beleoldjuk (nem forraljuk!).",
+    "3. Ha használunk gombát, azt és az úrhagymát 2 percig sötétben pároljuk szesámolajon, beleöntjük a miso levest.",
+    "4. Beletesszük a tofu kockákat, alga felét, chili olajat (ha kell). 2 percig melegítjük.",
+    "5. Újhagymával, szezámmaggal, alga maradékkal tálaljuk. Rizstésztával kiegészítve."
+  ],
+  "notes": "A miso pasztát soha ne forrald, elveszíti az ízét és az enzimeket. A tofu panírozható kukoricakeményítővel, akkor ropogósabb."
+}

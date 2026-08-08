@@ -1,0 +1,34 @@
+{
+  "id": "HU-010",
+  "title": "Gombaleves majeurekrémmel",
+  "cuisine": "magyar",
+  "tags": ["leves", "gomba", "majur", "krém", "ünnepi"],
+  "prep_minutes": 15,
+  "cook_minutes": 30,
+  "difficulty": "könnyű",
+  "kid_friendly": true,
+  "servings": 5,
+  "main_protein": "gomba",
+  "source": "streetkitchen.hu alapú saját recept",
+  "ingredients": [
+    {"name": "vöröshagyma", "quantity": 1, "unit": "fej"},
+    {"name": "fokhagyma", "quantity": 2, "unit": "gerezd"},
+    {"name": "olaj", "quantity": 2, "unit": "ek"},
+    {"name": "champignon gomba", "quantity": 500, "unit": "g"},
+    {"name": "pirospaprika", "quantity": 1, "unit": "tk"},
+    {"name": "víz/leves", "quantity": 1, "unit": "l"},
+    {"name": "tejszín", "quantity": 200, "unit": "ml"},
+    {"name": "só, bors", "quantity": null, "unit": null},
+    {"name": "majoranna", "quantity": 1, "unit": "tk"},
+    {"name": "majúra krém (pate)", "quantity": 100, "unit": "g", "note": "tálaláshoz"},
+    {"name": "petrezselyem", "quantity": 1, "unit": "csokor"}
+  ],
+  "steps": [
+    "1. Hagymát és fokhagymát apróra vágjuk, az olajon átpirítjuk. Hozzáadjuk a szeletelt gombát, 5-7 percig pirítjuk, amíg a leve el nem párolog.",
+    "2. Rászórjuk a pirospaprikát, azonnal felöntjük a vízzel/levessel, hogy ne égye meg. 10 percig főzzük.",
+    "3. A tejszínt simára keverjük, beleöntünk egy kevés forró levest (hőkiegyenlítés), majd visszakavarodjuk a fazékba. Nem forraljuk tovább!",
+    "4. Sózzuk, borsozzuk, fűszerezzük majorannával.",
+    "5. Tálaláskor majúrkrémmel díszítjük, petrezselyemmel megszórjuk."
+  ],
+  "notes": "A gombát ne kenyerészd meg, inkább száraz sarténban pirítsd előbb, hogy kilógjon a leve, így jobban Konzentrálódik az íz. A majúrkrém opcionális, de ünnepiesítő."
+}

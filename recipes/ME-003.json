@@ -1,0 +1,37 @@
+{
+  "id": "ME-003",
+  "title": "Spanyol paella csirkével és tenger gyümölcseivel",
+  "cuisine": "mediterrán",
+  "tags": ["rizs", "saffron", "hétvégi", "spanyol"],
+  "prep_minutes": 20,
+  "cook_minutes": 45,
+  "difficulty": "haladó",
+  "kid_friendly": true,
+  "servings": 5,
+  "main_protein": "csirke + tenger gyümölcsei",
+  "ingredients": [
+    {"name": "rizs (bomba vagy arborio)", "quantity": 500, "unit": "g"},
+    {"name": "csirkemell", "quantity": 400, "unit": "g"},
+    {"name": "tenger gyümölcsei mix (fagyasztott)", "quantity": 400, "unit": "g"},
+    {"name": "paprika (piros, őrölt)", "quantity": 2, "unit": "tk"},
+    {"name": "sáfrány (vagy kurkuma)", "quantity": 1, "unit": "csipet"},
+    {"name": "hagyma", "quantity": 1, "unit": "db"},
+    {"name": "fokhagyma", "quantity": 3, "unit": "gerezd"},
+    {"name": "paradicsom (sűrített)", "quantity": 2, "unit": "ek"},
+    {"name": "csirke alaplé", "quantity": 1.0, "unit": "l"},
+    {"name": "borsó (fagyasztott)", "quantity": 200, "unit": "g"},
+    {"name": "citrom", "quantity": 1, "unit": "db"},
+    {"name": "olívaolaj, só", "quantity": null, "unit": null}
+  ],
+  "steps": [
+    "1. Hagyma aprítva, olívaolajon üvegesre pirítani a paellás serpenyőben (vagy nagy serpenyőben).",
+    "2. Hozzáadni a fokhagymát, pirospaprikát, sáfrányt/kurkumát, 1 percig pirítani.",
+    "3. Hozzáadni a kockázott csirkét, fehéredésig pirítani.",
+    "4. Beleszórni a rizst, 1 percig pirítani (hogy a szemek átvegyék az ízt).",
+    "5. Hozzáadni a paradicsomsűrítményt, felönteni az alaplével, sózni.",
+    "6. 20 percig főzni, NE kevergetni — a paella alján kéreg képeződjön (ez a 'socarrat').",
+    "7. A 18. percben rászórni a fagyasztott tenger gyümölcseit és a borsót.",
+    "8. Tűzről levéve 5 percig pihenni, letakarva. Citromcikkekkel tálalni."
+  ],
+  "notes": "A 'socarrat' (alján kéreg) a paella lelke — ne ijedj meg, ha alul ropogós. A gyerekek imádják a színes megjelenést."
+}

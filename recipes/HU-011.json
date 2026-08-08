@@ -1,0 +1,39 @@
+{
+  "id": "HU-011",
+  "title": "Babgulyás kolbásszal",
+  "cuisine": "magyar",
+  "tags": ["gulyás", "bab", "kolbász", "egy tál étel", "húsos"],
+  "prep_minutes": 20,
+  "cook_minutes": 90,
+  "difficulty": "közepes",
+  "kid_friendly": true,
+  "servings": 5,
+  "main_protein": "kolbász",
+  "source": "streetkitchen.hu alapú saját recept",
+  "ingredients": [
+    {"name": "vöröshagyma", "quantity": 2, "unit": "fej"},
+    {"name": "olaj/zsír", "quantity": 3, "unit": "ek"},
+    {"name": "kolbász (füstölt)", "quantity": 200, "unit": "g"},
+    {"name": "piropo paprika", "quantity": 1, "unit": "db"},
+    {"name": "paradicsom", "quantity": 1, "unit": "db"},
+    {"name": "piropo paprika", "quantity": 2, "unit": "ek"},
+    {"name": "bab (fehér/kék)", "quantity": 400, "unit": "g", "note": "előző este beáztatva"},
+    {"name": "krumpli", "quantity": 3, "unit": "db"},
+    {"name": "víz/leves", "quantity": 2, "unit": "l"},
+    {"name": "babérlevél", "quantity": 2, "unit": "db"},
+    {"name": "kömény", "quantity": 1, "unit": "tk"},
+    {"name": "fokhagyma", "quantity": 3, "unit": "gerezd"},
+    {"name": "só, bors", "quantity": null, "unit": null},
+    {"name": "tejföl", "quantity": 200, "unit": "ml", "note": "tálaláshoz"},
+    {"name": "liszt", "quantity": 1, "unit": "ek", "note": "sűrítéshez opcionálisan"}
+  ],
+  "steps": [
+    "1. Hagymát apróra vágjuk, a zsíron megdinszteljük. Hozzáadjuk a gyufára vágott kolbászt, 3-4 percig pirítjuk.",
+    "2. Tűzről vesszük, beleteszzük a pirospaprikát, azonnal felöntjük egy kevés vízzel. Vissza a tűzre, hozzádjuk a kockára vágott paradicsomot és paprikát.",
+    "3. Felöntjük a vízzel/levessel, hozzádjuk a beáztatott babet, babérlevelt, köményt. 45-60 percig főzzük, amíg a bab meg nem puhul.",
+    "4. Hozzádjuk a kockára vágott krumplit, fokhagymát, még 15-20 percig főzzük.",
+    "5. Sózzuk, borsozzuk. Ha sűríteni akarjuk, a lisztet keverjük kevés hideg vízzel, belekavarjuk.",
+    "6. Tejföllel tálaljuk."
+  ],
+  "notes": "A babot érdemes előző este beáztatni, így gyorsabban fő. Ha nincs kolbász, szalonna vagy khust is megfelel. A tejföl opcionális, de hozzáillik."
+}

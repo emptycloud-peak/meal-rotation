@@ -1,0 +1,31 @@
+{
+  "id": "AS-003",
+  "title": "Japán ramen (tonkotsu stílus, gyors verzió)",
+  "cuisine": "ázsiai",
+  "tags": ["tészta", "leves", "japán", "comfort"],
+  "prep_minutes": 15,
+  "cook_minutes": 30,
+  "difficulty": "közepes",
+  "kid_friendly": true,
+  "servings": 5,
+  "main_protein": "sertés",
+  "ingredients": [
+    {"name": "ramen tészta (száraz)", "quantity": 500, "unit": "g"},
+    {"name": "sertés comb (vékony szeletekre)", "quantity": 600, "unit": "g"},
+    {"name": "csirke alaplé (kockából is jó)", "quantity": 1.5, "unit": "l"},
+    {"name": "tojás (főtt, félbevágva)", "quantity": 5, "unit": "db"},
+    {"name": "zöldhagyma", "quantity": 1, "unit": "csokor"},
+    {"name": "szójaszósz", "quantity": 4, "unit": "ek"},
+    {"name": "mirin (vagy 1 ek cukor + 1 ek szaké)", "quantity": 2, "unit": "ek"},
+    {"name": "friss gyömbér", "quantity": 3, "unit": "cm"},
+    {"name": "só, bors, olaj", "quantity": null, "unit": null}
+  ],
+  "steps": [
+    "1. Tojásokat 7 percig főzni, hideg vízbe tenni, meghámozni, félbevágni.",
+    "2. Húst csíkokra vágni, kevés olajon 3 percig pirítani, kivenni.",
+    "3. Alaplét felmelegíteni, hozzáadni a szójaszószt, mirint, reszelt gyömbért, 5 percig forralni.",
+    "4. Ramen tésztát a csomagolás szerint főni (3-4 perc), leszűrni.",
+    "5. Tálakba tenni: tészztát + levest + húst + tojást + zöldhagymát."
+  ],
+  "notes": "Ha nincs ramen tészta, használhatsz sima spagettit is. A gyerekek általában imádják, mert színes és tálalható."
+}

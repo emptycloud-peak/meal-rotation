@@ -1,0 +1,35 @@
+{
+  "id": "AS-001",
+  "title": "Thai csirke földimogyorós szósszal, rizzsel",
+  "cuisine": "ázsiai",
+  "tags": ["gyors", "csirke", "földimogyoró", "thai"],
+  "prep_minutes": 15,
+  "cook_minutes": 20,
+  "difficulty": "közepes",
+  "kid_friendly": true,
+  "servings": 5,
+  "main_protein": "csirke",
+  "ingredients": [
+    {"name": "csirkemell filé", "quantity": 800, "unit": "g"},
+    {"name": "rizs (jázmin)", "quantity": 500, "unit": "g"},
+    {"name": "földimogyoróvaj (natúr)", "quantity": 4, "unit": "ek"},
+    {"name": "szójaszósz", "quantity": 3, "unit": "ek"},
+    {"name": "méz", "quantity": 2, "unit": "ek"},
+    {"name": "lime", "quantity": 1, "unit": "db"},
+    {"name": "friss gyömbér", "quantity": 3, "unit": "cm"},
+    {"name": "fokhagyma", "quantity": 3, "unit": "gerezd"},
+    {"name": "sárgarépa (csíkokra vágva)", "quantity": 2, "unit": "db"},
+    {"name": "kaliforniai paprika", "quantity": 1, "unit": "db"},
+    {"name": "só, bors, olaj", "quantity": null, "unit": null}
+  ],
+  "steps": [
+    "1. Rizst főni a csomagolás szerint (15-18 perc).",
+    "2. Csirkemellet csíkokra vágni, sózni, borsozni.",
+    "3. Szósz: mogyoróvaj + szójaszósz + méz + lime leve + reszelt gyömbér + aprított fokhagyma + 4 ek víz — csomómentesre keverni.",
+    "4. Wokban olajon a csirkét 5 percig pirítani, amíg fehéredik.",
+    "5. Hozzáadni a zöldségeket, 4 percig pirítani (ropogósra).",
+    "6. Ráönteni a szószt, elkeverni, 1 percig forralni.",
+    "7. Rizzsel tálalni, mogyoróval és lime-cikkelyekkel díszíteni."
+  ],
+  "notes": "Ha a gyerekek nem szeretik a csípőset, a chilit tedd külön tálba. A mogyoróvajat helyettesítheted tahinivel, ha nincs otthon."
+}
