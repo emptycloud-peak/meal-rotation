@@ -1,0 +1,201 @@
+{
+  "id": "ME-006",
+  "title": "Lasagne (olasz)",
+  "cuisine": "mediterrán",
+  "tags": [],
+  "prep_minutes": 0,
+  "cook_minutes": 1,
+  "difficulty": "könnyű",
+  "kid_friendly": true,
+  "servings": 50,
+  "main_protein": "egyéb",
+  "ingredients": [
+    {
+      "name": "Lasagne üveges bolognai szószból",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "50 g",
+      "quantity": 50.0,
+      "unit": "g"
+    },
+    {
+      "name": "vaj",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "liszt",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "600 ml",
+      "quantity": 600.0,
+      "unit": "ml"
+    },
+    {
+      "name": "tej",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "só, bors",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "150 ml",
+      "quantity": 150.0,
+      "unit": "ml"
+    },
+    {
+      "name": "vörösbor",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "nagy üveges bolognai szósz",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "(750 g)",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "1 tk",
+      "quantity": 1.0,
+      "unit": "tk"
+    },
+    {
+      "name": "szárított bazsalikom",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "szárított oregánó",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "0.5 - 1 csomag",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "lasagne tészta",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "(kb. 10 db lap)",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "100 g",
+      "quantity": 100.0,
+      "unit": "g"
+    },
+    {
+      "name": "trappista",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Forási\\",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Ákos\\",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "2020\\. 03. 19.](https://streetkitchen.hu/felhasznalok/akosforasi)",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Szembemegy az elveinkkel a kész bolti ragu használata, de a karanténhelyzet sok mindent felülír. Jó választás lehet egy üveges bolognai, ha hosszabb időre akartok bespájzolni, most pedig azt is megmutatjuk, hogy mivel tudjátok egy kicsit feldobni a helyzetet!",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "három - négy főre",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Bevásárlólistához adás",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "A vajat felolvasztjuk, rátesszük a lisztet, pár percig pirítjuk, majd a meleg tejjel fokozatosan felöntjük, habverővel simára keverjük, és pár perc alatt bugyogtatva megfőzzük a besamelt, sózzuk, borsozzuk.",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "A vörösbort felére forraljuk, rátesszük a bolognai szószt, a zöld fűszereket, majd pár percig rotyogtatjuk. Egy kb. 20 x 30 cm-es tepsibe rétegezzük a tésztát a besamellel és a raguval úgy, hogy a tetején az utolsó réteg besamel legyen. Megszórjuk a reszelt sajttal, majd 200 fokra előmelegített sütőbe 30-35 perc alatt készre sütjük.",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Ha tetszett a lasagne üveges bolognai szószból receptje, akkor csekkoljátok a [**videóinkat**](https://www.youtube.com/@streetkitchen-hu)",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": ", exkluzív tartalmakért pedig lájkoljatok minket [**Facebookon**](https://www.facebook.com/streetkitchenhu/)",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": ", kövessetek minket [**Instagramon**](https://www.instagram.com/streetkitchenhu/)",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "és [**Tiktokon**](https://www.tiktok.com/@streetkitchenhu)",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "! Ha nem éritek be ennyivel, akkor irány a rendszeresen frissülő [**Pinterest**](https://hu.pinterest.com/streetkitchenhu/)",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "\\-profilunk, vagy a naponta izgalmas anyagokkal jelentkező [**Viber**](https://bit.ly/3ijkFS1)",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "\\-csatornánk!",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Recept nyomtatása",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Hibát találtam!",
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "steps": [
+    "1. A vajat felolvasztjuk, rátesszük a lisztet, pár percig pirítjuk, majd a meleg tejjel fokozatosan felöntjük, habverővel simára keverjük, és pár perc alatt bugyogtatva megfőzzük a besamelt, sózzuk, borsozzuk.",
+    "2. A vörösbort felére forraljuk, rátesszük a bolognai szószt, a zöld fűszereket, majd pár percig rotyogtatjuk. Egy kb. 20 x 30 cm-es tepsibe rétegezzük a tésztát a besamellel és a raguval úgy, hogy a tetején az utolsó réteg besamel legyen. Megszórjuk a reszelt sajttal, majd 200 fokra előmelegített sütőbe 30-35 perc alatt készre sütjük.",
+    "3. Lasagne üveges bolognai szószból",
+    "4. Cikkek](https://streetkitchen.hu/cikkek/felzabaltuk-nepsziget-kabin-wasser-vasmacska-perem-szitakoto)"
+  ],
+  "notes": "Forrás: streetkitchen.hu (https://streetkitchen.hu/receptek/lasagne-uveges-bolognai-szoszbol)"
+}

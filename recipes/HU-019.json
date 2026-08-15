@@ -1,0 +1,74 @@
+{
+  "id": "HU-019",
+  "title": "Békebeli rántott hús (sertéskarajból, sertészsírral és étolajjal sütve)",
+  "cuisine": "magyar",
+  "tags": [
+    "rántott",
+    "hús",
+    "sertés",
+    "karaj",
+    "sertészsír",
+    "békebeli",
+    "panír",
+    "zsemlemorzsa",
+    "klasszikus",
+    "húsos"
+  ],
+  "prep_minutes": 15,
+  "cook_minutes": 20,
+  "difficulty": "közepes",
+  "kid_friendly": true,
+  "servings": 4,
+  "main_protein": "sertés",
+  "ingredients": [
+    {
+      "name": "sertéskaraj",
+      "quantity": 800.0,
+      "unit": "g"
+    },
+    {
+      "name": "None None só",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "None None bors",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "finomliszt (panírhoz)",
+      "quantity": 100.0,
+      "unit": "g"
+    },
+    {
+      "name": "tojás (panírhoz, felverve)",
+      "quantity": 3.0,
+      "unit": "db"
+    },
+    {
+      "name": "zsemlemorzsa (panírhoz)",
+      "quantity": 150.0,
+      "unit": "g"
+    },
+    {
+      "name": "ételolaj (sütéshez)",
+      "quantity": 300.0,
+      "unit": "ml"
+    },
+    {
+      "name": "sertészsír (sütéshez, a titkos függvény)",
+      "quantity": 200.0,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "1. 1. A sertéskarajt kb. 1 cm vastag szeletekre vágjuk, majd két folpack között vékonyra klopfoljuk. Sózzuk, borsozzuk mindkét oldalukat.",
+    "2. 2. Előkészítünk három tányért a panírozáshoz: az egyikbe a liszt kerül, a másikba a felvert tojás, a harmadikba a zsemlemorzsa.",
+    "3. 3. A hússzeleteket először lisztbe forgatjuk, majd a tojásba mártjuk, végül alaposan bepanírozzuk a zsemlemorzsával. A morzsát finoman rányomkodjuk, hogy szép egyenletes bunda legyen rajta.",
+    "4. 4. Egy kis lábban felhevítjük az étolajat és a sertészsírt. Amikor már forró a zsíradék, a hússzeleteket oldalanként kb. 3–4 perc alatt aranybarnára sütjük. Nem zsúfoljuk túl a serpenyőt, hogy a panír szép ropogósra süljön és az olaj teljesen ellepje.",
+    "5. 5. A kész rántott húsokat papír törlőre szedjük, hogy a felesleges zsíradékot leitassuk.",
+    "6. 6. Krumplival vagy bármilyen, kedvünk szerinti kőrettel tálalhatjuk. Tipp: Ha kihűtjük és leszárjuk a zsíros olajat, máskor is fel tudjuk majd használni!"
+  ],
+  "notes": "A titkos fegyver a sertészsír és étolaj keveréke, ami extra ropogós bundát ad. Elkészítési idő: 35 perc\n\nForrás: streetkitchen.hu (https://streetkitchen.hu/receptek/bekebeli-rantott-hus)"
+}

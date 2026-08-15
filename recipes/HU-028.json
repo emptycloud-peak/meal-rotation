@@ -1,0 +1,98 @@
+{
+  "id": "HU-028",
+  "title": "Klasszikus rakott krumpli",
+  "cuisine": "magyar",
+  "tags": [
+    "rakott krumpli",
+    "krumpli",
+    "tojás",
+    "kolbász",
+    "szalonna",
+    "tejföl",
+    "sajt",
+    "egytálétel",
+    "magyar konyha",
+    "alaprecept"
+  ],
+  "prep_minutes": 40,
+  "cook_minutes": 70,
+  "difficulty": "nehéz",
+  "kid_friendly": true,
+  "servings": 6,
+  "main_protein": "sertés",
+  "ingredients": [
+    {
+      "name": "krumpli",
+      "quantity": 1.5,
+      "unit": "kg"
+    },
+    {
+      "name": "tojás",
+      "quantity": 10.0,
+      "unit": "db"
+    },
+    {
+      "name": "lila hagyma",
+      "quantity": 200.0,
+      "unit": "g"
+    },
+    {
+      "name": "kolbász",
+      "quantity": 200.0,
+      "unit": "g"
+    },
+    {
+      "name": "olaj",
+      "quantity": 20.0,
+      "unit": "ml"
+    },
+    {
+      "name": "tejföl",
+      "quantity": 800.0,
+      "unit": "g"
+    },
+    {
+      "name": "mustár",
+      "quantity": 2.0,
+      "unit": "tk"
+    },
+    {
+      "name": "erezd fokhagyma",
+      "quantity": 3.0,
+      "unit": "g"
+    },
+    {
+      "name": "étkezési keményítő",
+      "quantity": 2.0,
+      "unit": "tk"
+    },
+    {
+      "name": "só, bors ízlés szerint",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "szeletelt bacon",
+      "quantity": 200.0,
+      "unit": "g"
+    },
+    {
+      "name": "vaj",
+      "quantity": 50.0,
+      "unit": "g"
+    },
+    {
+      "name": "trappista sajt",
+      "quantity": 250.0,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "1. A burgonyát bő, enyhén sós vízben majdnem puhára főzzük. A tojásokat szintén 10 perc alatt készre főzzük.",
+    "2. A lila hagymát szeletekre vágjuk, és egy kevés olajon üvegesre pirítjuk. A tejfölben elkeverjük a mustárt, a zúzott fokhagymát, a keményítőt, és sózzuk, borsozzuk. A bacont ropogósra pirítjuk.",
+    "3. A tepsi alját kikenjük a vajjal, és elkezdjük rétegezni a hozzávalókat. Minden réteget enyhén megsózunk. Először teszünk egy réteget a megfőtt és karikára a vágott krumpliból, és az egészet meglocsoljuk egy adag tejföllel.",
+    "4. Jöhet a szintén főtt, karikára vágott tojás, amit megszórunk egy adag pirított hagymával. Teszünk egy réteget a kolbászból és a baconből is, majd ismét jöhet egy réteg tejföl.",
+    "5. Ezt a sort addig ismételjük, amíg el nem fogynak az alapanyagok. A végén tejföllel zárjuk a sort, majd az egészet megszórjuk a reszelt sajttal, és 180 fokra előmelegített sütőben 25-30 perc alatt készre sütjük."
+  ],
+  "notes": "Előkészület: 40 perc, Elkészítés: 40 perc, Sütés: 30 perc. 180°C-on 25-30 perc sütés. Kerámia vagy öntöttvas tepsi ajánlott. Hagyományosan az 1840-es években is említették. Szerző: Eisler Zsolti (2022.03.07)\n\nForrás: streetkitchen.hu (https://streetkitchen.hu/receptek/klasszikus-rakott-krumpli)"
+}

@@ -1,0 +1,223 @@
+{
+  "id": "AS-008",
+  "title": "Okonomiyaki",
+  "cuisine": "ázsiai",
+  "tags": [],
+  "prep_minutes": 0,
+  "cook_minutes": 3,
+  "difficulty": "könnyű",
+  "kid_friendly": false,
+  "servings": 800,
+  "main_protein": "sertés",
+  "ingredients": [
+    {
+      "name": "Kínai sertéspörkölt bográcsban",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "800 g",
+      "quantity": 800.0,
+      "unit": "g"
+    },
+    {
+      "name": "sertéslapocka",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "4 szál",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "újhagyma",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "erezd",
+      "quantity": 4.0,
+      "unit": "g"
+    },
+    {
+      "name": "fokhagyma",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "1 rúd",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "fahéj",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "2 db",
+      "quantity": 2.0,
+      "unit": "db"
+    },
+    {
+      "name": "babérlevél",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "1 db",
+      "quantity": 1.0,
+      "unit": "db"
+    },
+    {
+      "name": "szárított chilipaprika",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "csillagánizs",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "4 ek",
+      "quantity": 4.0,
+      "unit": "ek"
+    },
+    {
+      "name": "olaj",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "1.5 l",
+      "quantity": 1.5,
+      "unit": "l"
+    },
+    {
+      "name": "víz",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "világos szójaszósz",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "2 ek",
+      "quantity": 2.0,
+      "unit": "ek"
+    },
+    {
+      "name": "főzőbor",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "2 szál",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "sárgarépa",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "krumpli",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "(nagyobb)",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "3 tk",
+      "quantity": 3.0,
+      "unit": "tk"
+    },
+    {
+      "name": "só",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Li\\",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Mengyi\\",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "2021\\. 10. 12.](https://streetkitchen.hu/felhasznalok/limengyi-88)",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "\\*Termékmegjelenítést tartalmaz",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "A Grillszezon támogatója:",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Úgy tartják, hogy a magyarok ősei Ázsiából származnak. Ez nemcsak abban nyilvánul meg, hogy ellentétben Európa többi országával, a magyar nevek a távol-keleti országok neveihez hasonlóan a vezetéknévvel kezdődnek, hanem a gasztronómiában is. 10 éves ittlétem alatt ugyanis több olyan étellel is találkoztam, ami a kínai gasztronómiába is tökéletesen beleillik. Ilyen például a magyar pörkölt. Ezért most egy kínai pörköltreceptet hoztam nektek, ami szerintem sokatoknak nagyon ízlene.",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "négy főre",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Bevásárlólistához adás",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "A sertéshúst kisebb, kb. 2 cm-es darabokra vágjuk. Egy fazékba vizet öntünk, beletesszük a húskockákat, majd nagy lángra kapcsolunk. Miután felforrt a víz, leszűrjük a sertéshúst. A hús előfőzésével el tudjuk távolítani a keletkező habot, így tisztább lesz a pörkölt leve, és finomabb lesz az ételünk.",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Míg forr a víz, az újhagymák zöldjét levágjuk, mivel csak a szárukat fogjuk használni. A szárakat srégen 3 cm-es darabokra vágjuk. A fokhagymát a száraz fűszerekkel együtt előkészítjük egy tányérra.",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "A bográcsban felmelegítjük az olajat, és rárakjuk az újhagymát, illetve a fokhagymát. Kevergetve illatossá pirítjuk, majd rádobjuk a húst, és tovább pirítjuk. Ezután belerakjuk a csillagánizst, a chilit, a fahéjat és babérlevelet, majd felöntjük a bogrács tartalmát annyi forró vízzel, amennyi épp ellepi a húst. Ezt követően hozzáadjuk a világos szójaszószt és a főzőbort. Nagy lángon felforraljuk a pörköltünket, majd a legkisebb lángra vesszük, és fedél alatt főzzük 45 percen keresztül. Miközben fő a húsunk, a burgonyát és a sárgarépát meghámozzuk, és 2 cm-es kockákra vágjuk.",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "45 perc elteltével ellenőrizzük a hús puhaságát, és ha már nagyjából omlós, akkor hozzáadjuk a burgonyát és a sárgarépát, és további 35-40 percig főzzük alacsony fokozaton. Fontos, hogy ne főzzük túl, mert akkor szétesik a burgonya.",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Amikor lejárt az idő, ellenőrizzük, hogy a hús és a burgonya is puha lett-e. Lehetőség szerint kivesszük a babérlevelet, a csillagánizst és a fahéjat, hogy ne maradjanak az ételben nem ehető elemek. Ezt követően ízlés szerint sózzuk, végül megszórjuk apróra vágott újhagymával, és készen is vagyunk.",
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "steps": [
+    "1. A sertéshúst kisebb, kb. 2 cm-es darabokra vágjuk. Egy fazékba vizet öntünk, beletesszük a húskockákat, majd nagy lángra kapcsolunk. Miután felforrt a víz, leszűrjük a sertéshúst. A hús előfőzésével el tudjuk távolítani a keletkező habot, így tisztább lesz a pörkölt leve, és finomabb lesz az ételünk.",
+    "2. Míg forr a víz, az újhagymák zöldjét levágjuk, mivel csak a szárukat fogjuk használni. A szárakat srégen 3 cm-es darabokra vágjuk. A fokhagymát a száraz fűszerekkel együtt előkészítjük egy tányérra.",
+    "3. A bográcsban felmelegítjük az olajat, és rárakjuk az újhagymát, illetve a fokhagymát. Kevergetve illatossá pirítjuk, majd rádobjuk a húst, és tovább pirítjuk. Ezután belerakjuk a csillagánizst, a chilit, a fahéjat és babérlevelet, majd felöntjük a bogrács tartalmát annyi forró vízzel, amennyi épp ellepi a húst. Ezt követően hozzáadjuk a világos szójaszószt és a főzőbort. Nagy lángon felforraljuk a pörköltünket, majd a legkisebb lángra vesszük, és fedél alatt főzzük 45 percen keresztül. Miközben fő a húsunk, a burgonyát és a sárgarépát meghámozzuk, és 2 cm-es kockákra vágjuk.",
+    "4. 45 perc elteltével ellenőrizzük a hús puhaságát, és ha már nagyjából omlós, akkor hozzáadjuk a burgonyát és a sárgarépát, és további 35-40 percig főzzük alacsony fokozaton. Fontos, hogy ne főzzük túl, mert akkor szétesik a burgonya.",
+    "5. Amikor lejárt az idő, ellenőrizzük, hogy a hús és a burgonya is puha lett-e. Lehetőség szerint kivesszük a babérlevelet, a csillagánizst és a fahéjat, hogy ne maradjanak az ételben nem ehető elemek. Ezt követően ízlés szerint sózzuk, végül megszórjuk apróra vágott újhagymával, és készen is vagyunk.",
+    "6. Kínai sertéspörkölt bográcsban"
+  ],
+  "notes": "Forrás: streetkitchen.hu (https://streetkitchen.hu/receptek/kinai-sertesporkolt-bogracsban)"
+}

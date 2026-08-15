@@ -1,0 +1,153 @@
+{
+  "id": "EG-014",
+  "title": "Lecsó kevesebb olajjal",
+  "cuisine": "egészséges",
+  "tags": [],
+  "prep_minutes": 10,
+  "cook_minutes": 1,
+  "difficulty": "könnyű",
+  "kid_friendly": true,
+  "servings": 500,
+  "main_protein": "csirke",
+  "ingredients": [
+    {
+      "name": "Lecsós pirított csirkemáj",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "500 g",
+      "quantity": 500.0,
+      "unit": "g"
+    },
+    {
+      "name": "csirkemáj",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "60 ml",
+      "quantity": 60.0,
+      "unit": "ml"
+    },
+    {
+      "name": "olaj",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "1 fej",
+      "quantity": 1.0,
+      "unit": "fej"
+    },
+    {
+      "name": "vöröshagyma",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "2 db",
+      "quantity": 2.0,
+      "unit": "db"
+    },
+    {
+      "name": "paradicsom",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "1 db",
+      "quantity": 1.0,
+      "unit": "db"
+    },
+    {
+      "name": "tv-paprika",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "só",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "1 tk",
+      "quantity": 1.0,
+      "unit": "tk"
+    },
+    {
+      "name": "őrölt bors",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "2 tk",
+      "quantity": 2.0,
+      "unit": "tk"
+    },
+    {
+      "name": "majoránna",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "fűszerpaprika",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "1 kg",
+      "quantity": 1.0,
+      "unit": "kg"
+    },
+    {
+      "name": "krumpli",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "(tisztítva)",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Fördős\\",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Lajos\\",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "2021\\. 08. 10.](https://streetkitchen.hu/felhasznalok/lajosfordos)",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "A lecsós máj az egyik legjobb és leggyorsabb kaja, amit összedobhattok kb. 25 perc alatt, mégis teljes értékű ebéd vagy vacsora. Ráadásul a máj vízben oldódó vitaminokban gazdag alapanyag.",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "négy főre",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Bevásárlólistához adás",
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "steps": [
+    "1. A paradicsomot leforrázzuk, és lehúzzuk a héját, majd cikkekre darabolva a hagymára tesszük. Összevágjuk a paprikát is, majd a magház és a szár nélkül a paradicsom mellé dobjuk. Sózzuk, és fűszerezzük, ezzel kész is van az alap lecsónk.",
+    "2. Felforrósítjuk az olaj másik felét egy erős lángon hevített serpenyőben, és készre pirítjuk a natúr májat. Ha elkészült, összeforgatjuk a lecsós alappal, és összeforraljuk.",
+    "3. Cikkekre vágott, sós vízben készre főzött burgonyával tálaljuk.",
+    "4. Előkészítési idő: 10 perc",
+    "5. Összesen: 20-25 perc",
+    "6. Lecsós pirított csirkemáj (Fotó: Street Kitchen)"
+  ],
+  "notes": "Forrás: streetkitchen.hu (https://streetkitchen.hu/receptek/lecsos-csirkemaj)"
+}

@@ -1,0 +1,123 @@
+{
+  "id": "HU-025",
+  "title": "Lajos-féle bácskai rizses hús",
+  "cuisine": "magyar",
+  "tags": [
+    "rizses hús",
+    "bácskai rizses hús",
+    "sertéshús",
+    "sertéslapocka",
+    "menzafogás",
+    "egy tál étel",
+    "magyar konyha"
+  ],
+  "prep_minutes": 20,
+  "cook_minutes": 90,
+  "difficulty": "nehéz",
+  "kid_friendly": false,
+  "servings": 6,
+  "main_protein": "sertés",
+  "ingredients": [
+    {
+      "name": "sertészsír",
+      "quantity": 100.0,
+      "unit": "g"
+    },
+    {
+      "name": "paradicsom",
+      "quantity": 1.0,
+      "unit": "db"
+    },
+    {
+      "name": "tv-paprika",
+      "quantity": 1.0,
+      "unit": "db"
+    },
+    {
+      "name": "erezd fokhagyma",
+      "quantity": 4.0,
+      "unit": "g"
+    },
+    {
+      "name": "vöröshagyma (120 g)",
+      "quantity": 1.0,
+      "unit": "fej"
+    },
+    {
+      "name": "só ízlés szerint",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "őrölt kömény",
+      "quantity": 2.0,
+      "unit": "tk"
+    },
+    {
+      "name": "őrölt bors",
+      "quantity": 1.0,
+      "unit": "tk"
+    },
+    {
+      "name": "majoránna",
+      "quantity": 2.0,
+      "unit": "tk"
+    },
+    {
+      "name": "víz",
+      "quantity": 400.0,
+      "unit": "ml"
+    },
+    {
+      "name": "fűszerpaprika",
+      "quantity": 2.0,
+      "unit": "tk"
+    },
+    {
+      "name": "sertéslapocka",
+      "quantity": 800.0,
+      "unit": "g"
+    },
+    {
+      "name": "szárított chilipaprika (elhagyható)",
+      "quantity": 2.0,
+      "unit": "db"
+    },
+    {
+      "name": "1 szál sárgarépa (120 g)",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "1 szál fehérrépa (80 g)",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "petrezselyem",
+      "quantity": 1.0,
+      "unit": "csokor"
+    },
+    {
+      "name": "zöldborsó",
+      "quantity": 150.0,
+      "unit": "g"
+    },
+    {
+      "name": "rizs",
+      "quantity": 400.0,
+      "unit": "g"
+    },
+    {
+      "name": "forró zöldségalaplé",
+      "quantity": 800.0,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "1. A zsírt egy lábasban elkezdjük közepes lángon felheviteni, és megpirítjuk rajta az elfelezett paradicsomot és paprikát. Rádobjuk a finomra vágott fokhagymát és hagymát is. Sózzuk és megszórjuk köménnyel, borssal és majorannával. Kicsit összepirítjuk a fűszerekkel, és felöntjük kb. 200 ml vízzel, majd beleszórjuk a pirospaprikát, és megint felöntjük kb. 200 ml vízzel. Így főzzük kb. 10 percig, közben a lapockát 2 cm-es kockákra vágjuk.",
+    "2. Ha a pörköltalap összepárolódott, beledobjuk a szárított chilipaprikát (ha nem szeretitek a csípőset, ez elhagyható). Hozzáadjuk a feldarabolt húst, és kb. 30 percen keresztül nagy lángon pároljuk, közben ha szükséges, pótoljuk alatta a folyadékot. A répákat hosszában negyedeljük, és kb. 2 cm-es darabokra vágjuk. A petrezselyem szárát finomra vágjuk, a zöldjét pedig rusztikusan összedaraboljuk.",
+    "3. Ha letelt a főzési idő, hozzáadjuk a felaprított zöldségeket, a petrezselymet, a zöldborsót és a rizst, majd felöntjük a forró alaplével. Kevergetve felforraljuk, figyelve rá, hogy a rizs nehogy letapadjon. Kb. 5 percig forraljuk, lefedjük és 130 fokra előmelegített sütőbe rakjuk 40 percre. A sütőből kivéve alaposan átkeverjük, és készen is vagyunk. Csalamádéval fogyasztjuk."
+  ],
+  "notes": "Elkészítési idő: 1 óra 30 perc. Klasszikus menzafogás, Fördős Lajos receptje. Csalamádéval fogyasztjuk. Szerző: Fördős Lajos (2022.06.18)\n\nForrás: streetkitchen.hu (https://streetkitchen.hu/receptek/lajos-fele-bacskai-rizses-hus)"
+}

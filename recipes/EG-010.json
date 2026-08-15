@@ -1,0 +1,53 @@
+{
+  "id": "EG-010",
+  "title": "Hamburger halból teljes kiőrlésű zsemlével",
+  "cuisine": "egészséges",
+  "tags": [],
+  "prep_minutes": 0,
+  "cook_minutes": 1,
+  "difficulty": "könnyű",
+  "kid_friendly": true,
+  "servings": 250,
+  "main_protein": "egyéb",
+  "ingredients": [
+    {
+      "name": "Mexikói rizses pulyka",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Eisler\\",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Zsolti\\",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "2021\\. 04. 04.](https://streetkitchen.hu/felhasznalok/eisler-zsolti)",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "Épp ráleltél egy rég elfeledett konzerves mexikói zöldségkeverékre a kamrában, és nem tudod, mit is kezdj vele? Megmutatom, miként használhatod fel. Az, hogy épp ebéd- vagy vacsoraidő van, ebben az esetben teljesen mindegy, mert ez az étel mindkét étkezésnél maximálisan megállja a helyét.",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "hat főre",
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "steps": [
+    "1. A mexikói rizses pulykához először a rizst bő, enyhén sós, lobogó vízben puhára főzzük, majd leszűrjük és félretesszük.",
+    "2. Olajat hevítünk egy serpenyőben, amiben 3-4 perc alatt megpirítjuk a kockákra vágott húst, közben sózzuk, borsozzuk, majd ezt is félretesszük.",
+    "3. A  besamelhez vajat olvasztunk egy lábasban, hozzáadjuk a lisztet, és egy kézi habverővel kevergetve közel egy percig pirítjuk. Felöntjük a tej kb. ⅓-ával, és csomómentesre keverjük, majd hozzáadjuk a többi tejet is. Folyamatos kevergetés közben felforraljuk, majd forrástól számítva további 1 percig főzzük, és lekapcsoljuk a tűzhelyet. Sózzuk, borsozzuk és hozzáadjuk a szerecsendiót is.",
+    "4. Egy kb. 20 x 30 cm-es sütőtál aljára tesszük a rizst, arra rászórjuk a zöldségkeveréket, majd eloszlatjuk rajta a húst, és az egészet leöntjük a besamellel. Megszórjuk a tetejét reszelt sajttal, majd a 200 fokra előmelegített sütőt grillfunkcióra kapcsoljuk, és kb. 10 perc alatt szép aranybarnára pirítjuk az étel tetején a sajtot.",
+    "5. Ha megpirult, kivesszük a sütőből, és már szervírozhatjuk is.",
+    "6. Mexikói rizses pulyka"
+  ],
+  "notes": "Forrás: streetkitchen.hu (https://streetkitchen.hu/receptek/mexikoi-rizses-pulyka)"
+}

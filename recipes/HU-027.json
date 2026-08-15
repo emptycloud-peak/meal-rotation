@@ -1,0 +1,67 @@
+{
+  "id": "HU-027",
+  "title": "Túrós csusza, ahogy azt kell!",
+  "cuisine": "magyar",
+  "tags": [
+    "túrós csusza",
+    "tészta",
+    "túró",
+    "szalonna",
+    "tejföl",
+    "magyaros ételek",
+    "magyar konyha"
+  ],
+  "prep_minutes": 15,
+  "cook_minutes": 25,
+  "difficulty": "közepes",
+  "kid_friendly": true,
+  "servings": 4,
+  "main_protein": "sertés",
+  "ingredients": [
+    {
+      "name": "jó minőségű csusza tészta",
+      "quantity": 250.0,
+      "unit": "g"
+    },
+    {
+      "name": "15 dkg füstölt szalonna (pl. mangalica)",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "25 dkg túró (esetleg a fele juhtúró, zsíros)",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "tejföl (zsíros)",
+      "quantity": 0.5,
+      "unit": "l"
+    },
+    {
+      "name": "só ízlés szerint",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "fehérbors ízlés szerint",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "vaj a hőálló tál kivajazásához",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "tálaláshoz egy kis snidling",
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "steps": [
+    "1. A szalonnáról levágjuk a héját, beletesszük a tészta főzővizébe. Utána felkockázzuk a szalonnát, és lassú tűzön kiolvasztjuk (félig ropogósra). Közben - al dente - megfőzzük a tésztát. (A sót csak a víz felforralása után tesszük bele, mert úgy gyorsabban forr fel a víz!). A túrót kb. 4 dl tejföllel összekeverjük, pihenni hagyjuk.",
+    "2. A tésztát hideg vízzel leöblítve szűrjük le, és izibe hozzákeverjük a szalonnát és a kisült zsír felét. Ezután beletesszük a tejföllel kikevert túrót. majd beletesszük a kivajazott tepsibe. Kicsit megszórjuk fehérborssal, és összekeverjük, majd a maradék tejfölt rákenjük a tetejére. 200 fokra előmelegített ütőben pár perc alatt készre sütjük."
+  ],
+  "notes": "Klasszikus magyar étel. A szalonna héját a főzővízbe tesszük ízletért. Sütőben készül el (200°C, pár perc). Szerző: Street Kitchen (2014.08.28)\n\nForrás: streetkitchen.hu (https://streetkitchen.hu/receptek/turos-csusza-ahogy-azt-kell)"
+}

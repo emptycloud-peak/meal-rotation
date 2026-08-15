@@ -1,0 +1,82 @@
+{
+  "id": "HU-021",
+  "title": "A legfinomabb sárgaborsó-főzelék",
+  "cuisine": "magyar",
+  "tags": [
+    "főzelék",
+    "sárgaborsó",
+    "hüvelyes",
+    "kolbászos",
+    "menzás kaják",
+    "magyar konyha"
+  ],
+  "prep_minutes": 15,
+  "cook_minutes": 45,
+  "difficulty": "közepes",
+  "kid_friendly": false,
+  "servings": 4,
+  "main_protein": "sertés",
+  "ingredients": [
+    {
+      "name": "sárgaborsó",
+      "quantity": 500.0,
+      "unit": "g"
+    },
+    {
+      "name": "zöldségalaplé vagy víz",
+      "quantity": 1.5,
+      "unit": "l"
+    },
+    {
+      "name": "vöröshagyma (150 g)",
+      "quantity": 1.0,
+      "unit": "fej"
+    },
+    {
+      "name": "babérlevél",
+      "quantity": 4.0,
+      "unit": "db"
+    },
+    {
+      "name": "sertészsír",
+      "quantity": 3.0,
+      "unit": "ek"
+    },
+    {
+      "name": "finomliszt",
+      "quantity": 3.0,
+      "unit": "ek"
+    },
+    {
+      "name": "erezd fokhagyma",
+      "quantity": 4.0,
+      "unit": "g"
+    },
+    {
+      "name": "fűszerpaprika",
+      "quantity": 1.5,
+      "unit": "tk"
+    },
+    {
+      "name": "debreceni kolbász",
+      "quantity": 4.0,
+      "unit": "db"
+    },
+    {
+      "name": "10 szál snidling",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "name": "só, bors ízlés szerint",
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "steps": [
+    "1. Egy lábasba öntjük a leszűrt sárgaborsót az alaplével, majd hozzáadjuk a finomra vágott vöröshagymát, a babérlevelet, sózzuk, borsozzuk, és puhára főzzük benne a borsót.",
+    "2. Közben elkészítjük hozzá a rántást: egy kisebb edényben felmelegítünk közepes hőfokon 2 ek zsírt, és 1-2 perc alatt zsemleszínűre pirítjuk benne a lisztet. Lehúzzuk a tűzről és belekeverjük a zúzott fokhagymát, a fűszerpaprikát, majd csomómentesre keverjük 200 ml hideg vízzel. Hozzáöntjük folyamatos keverés mellett az alaphoz, és további 4-5 perc forralással besűrítjük vele a főzeléket.",
+    "3. Feltétként a debreceniket hosszában félbevágjuk, sűrűn beirdaljuk, és egy serpenyőben, 1 ek zsíron, közepesen magas hőfokon megsütjük őket, oldalanként 2 perccel számolva. Tányérba szedjük a főzeléket, rátesszük a sült debreceniket, és egy kis finomra vágott snidlinggel megszórva tálaljuk."
+  ],
+  "notes": "Elkészítési idő: 1 óra. A legfinomabb, ha előző este hideg vízbe áztatjuk a sárgaborsót (min 4 óra). Áztatás nélkül is meg tud főni, csak tovább tart. Szerző: Lukács Zsolt (2025.02.09)\n\nForrás: streetkitchen.hu (https://streetkitchen.hu/receptek/sargaborso-fozelek)"
+}
